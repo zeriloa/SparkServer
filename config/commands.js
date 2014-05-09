@@ -210,6 +210,10 @@ var commands = exports.commands = {
 		if (!atLeastOne) this.sendReply("No results found.");
 	},
 
+	unzip: function(target, room, user) {
+		return this.parse('/me unzips');
+	},
+	
 	/*********************************************************
 	 * Shortcuts
 	 *********************************************************/
