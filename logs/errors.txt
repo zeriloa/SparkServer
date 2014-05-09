@@ -1,0 +1,36 @@
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:368:16)
+    at Object.exports.commands.query (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/commands.js:1716:13)
+    at Object.exports.parse (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:1277:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:211:12)
+    at Worker.<anonymous> (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:368:16)
+    at Object.exports.commands.query (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/commands.js:1716:13)
+    at Object.exports.parse (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:1277:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:211:12)
+    at Worker.<anonymous> (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:368:16)
+    at Object.exports.commands.query (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/commands.js:1716:13)
+    at Object.exports.parse (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:1277:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/users.js:211:12)
+    at Worker.<anonymous> (/Users/Lukas/Desktop/sparkserver/Pokemon-Showdown-master/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)

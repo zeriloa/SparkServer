@@ -1,0 +1,14 @@
+[
+{"title":"Lobby","isOfficial":true,"autojoin":false,"desc":"Welcome to SparkServer!","modchat":false},
+{"title":"Little Cup","isOfficial":true,"desc":"Get involved with XY Little Cup! http://goo.gl/m64S68 fgt","auth":{"zeriloa":"#","corporallevi":"@","thefenderstory":"%","astara":"+","sparkychild":"@","nudisto":"@","championfizz":"%","burgercarbink":"%","aerow":"%"},"modchat":false},
+{"title":"LC UU","desc":"LC UU Rules + Banlist: http://goo.gl/ViCGKw -- based on Apr 2014 LC 1630 stats","auth":{"deathxshinigami":"#"},"modchat":"%"},
+{"title":"LC Ubers","desc":"LC Ubers Rules: http://goo.gl/5rq4c0 ~ Dragon Rage, Sonic Boom unbanned! fgt","auth":{"sparkychild":"#","deathxshinigami":"@","championfizz":"+","corporallevi":"+","burgercarbink":"%","thefenderstory":"@","astara":"+","nudisto":"+","dsr95":"%","antgeezy":"+","hddenpower":"+"},"modchat":"+"},
+{"title":"LC Doubles","desc":"LC DOUBLES IS FINALLY UPON US NIGGAS","auth":{"antgeezy":"#","thefenderstory":"@","corporallevi":"@","burgercarbink":"%"},"modchat":false},
+{"title":"Other Metagames","desc":"OU, UU, Ubers and more!","modchat":"%"},
+{"title":"Pokéraps","auth":{"championfizz":"#","thefenderstory":"#","burgercarbink":"%","nudisto":"@","sparkychild":"%","pencleraser":"+","mcmankey":"+"},"desc":"For information on PokeRaps: http://pastebin.com/ySxSqGkt","modchat":false},
+{"title":"Sentence Game","auth":{"antgeezy":"#","chromaticart":"%"},"modchat":"%","desc":"The game with no holds barred....The rules: http://pastebin.com/GRjk3ic3"},
+{"title":"Cookie Run","auth":{"deathxshinigami":"#","burgercarbink":"@","sparkychild":"@"},"modchat":false},
+{"title":"Unzipping Room","desc":"/me unzips SPARKTRAIN IS A DICKCHEESE","auth":{"sparktrain":"#","corporallevi":"#","championfizz":"#","nudisto":"#","dsr95":"#","zeriloa":"#","antgeezy":"#","stonerlinoone":"%","burgercarbink":"%","aerow":"@","pencleraser":"+","chromaticart":"%"},"modchat":false},
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":false,"desc":"Official Chat for SparkServer Staff Members"},
+{"title":"fgt","isPrivate":true,"desc":"if ur in here, ur a fgt"}
+]

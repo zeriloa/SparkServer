@@ -1,0 +1,338 @@
+[2014-05-06T00:50:21.055Z] (lobby) sparktrain declared HELLO FAGGOTS
+[2014-05-06T00:51:26.431Z] (lobby) sparktrain was warned by sparktrain.
+[2014-05-06T00:51:52.630Z] (lobby) sparktrain was muted by sparktrain for 7 minutes.
+[2014-05-06T00:52:06.029Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-06T00:52:20.126Z] (lobby) sparktrain was muted by sparktrain for 7 minutes. (quit bein a fgt)
+[2014-05-06T00:52:33.918Z] (lobby) (sparktrain would be muted by sparktrain but was already muted.)
+[2014-05-06T00:52:40.029Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-06T00:53:06.439Z] (lobby) sparktrain was muted by sparktrain for 7 minutes. (quit rubbing ur poopdick itc)
+[2014-05-06T00:53:38.485Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-06T01:00:49.488Z] (lobby) sparktrain declared HELLO FAGGOTS
+[2014-05-06T01:08:46.912Z] (lobby) Antgeezy was promoted to Voice by sparktrain.
+[2014-05-06T01:08:58.079Z] (lobby) Antgeezy was promoted to Driver by sparktrain.
+[2014-05-06T01:09:00.223Z] (lobby) Antgeezy was promoted to Moderator by sparktrain.
+[2014-05-06T01:09:10.924Z] (lobby) (antgeezy was demoted to Driver by sparktrain.)
+[2014-05-06T01:09:16.771Z] (lobby) (antgeezy was demoted to Voice by sparktrain.)
+[2014-05-06T01:09:18.178Z] (lobby) (antgeezy was demoted to regular user by sparktrain.)
+[2014-05-06T01:10:01.201Z] (lobby) Antgeezy was promoted to Voice by sparktrain.
+[2014-05-06T01:10:15.025Z] (lobby) Antgeezy was promoted to Driver by sparktrain.
+[2014-05-06T01:10:18.049Z] (lobby) Antgeezy was promoted to Moderator by sparktrain.
+[2014-05-06T01:10:29.056Z] (lobby) sparktrain declared U EXCITED FGT
+[2014-05-06T01:10:37.072Z] (lobby) sparktrain declared ????
+[2014-05-06T03:47:54.190Z] (lobby) is seel gud? was promoted to Voice by sparktrain.
+[2014-05-06T03:47:59.027Z] (lobby) is seel gud? was promoted to Driver by sparktrain.
+[2014-05-06T03:48:15.648Z] (lobby) (is seel gud? was demoted to Voice by sparktrain.)
+[2014-05-06T03:48:27.406Z] (lobby) (is seel gud? was demoted to regular user by sparktrain.)
+[2014-05-06T03:50:13.394Z] (lobby) is seel gud? was promoted to Voice by sparktrain.
+[2014-05-06T03:50:16.273Z] (lobby) is seel gud? was promoted to Driver by sparktrain.
+[2014-05-06T03:50:17.057Z] (lobby) is seel gud? was promoted to Moderator by sparktrain.
+[2014-05-06T03:51:32.766Z] (lobby) (is seel gud? was demoted to Driver by sparktrain.)
+[2014-05-06T03:51:33.998Z] (lobby) (is seel gud? was demoted to Voice by sparktrain.)
+[2014-05-06T03:51:40.150Z] (lobby) (is seel gud? was demoted to regular user by sparktrain.)
+[2014-05-06T03:51:59.021Z] (lobby) sparkbot was promoted to Voice by sparktrain.
+[2014-05-06T03:52:00.357Z] (lobby) sparkbot was promoted to Driver by sparktrain.
+[2014-05-06T03:52:02.941Z] (lobby) sparkbot was promoted to Moderator by sparktrain.
+[2014-05-06T05:43:58.171Z] (lobby) Antgeezy was promoted to Voice by sparktrain.
+[2014-05-06T05:44:03.570Z] (lobby) zeriloa was promoted to Voice by sparktrain.
+[2014-05-06T05:44:07.457Z] (lobby) zeriloa was promoted to Driver by sparktrain.
+[2014-05-06T05:44:12.745Z] (lobby) zeriloa was promoted to Moderator by sparktrain.
+[2014-05-06T05:44:14.889Z] (lobby) Antgeezy was promoted to Driver by sparktrain.
+[2014-05-06T05:44:16.017Z] (lobby) Antgeezy was promoted to Moderator by sparktrain.
+[2014-05-06T06:52:52.073Z] (lobby) sparktrain declared FAGGOTS!
+[2014-05-06T06:53:17.976Z] (lobby) sparktrain globally declared FAGGOTS GET IN THE LOBBBY
+[2014-05-06T06:53:33.855Z] (lobby) sparktrain globally declared fuck i misspelled that
+[2014-05-06T06:53:40.862Z] (lobby) sparktrain globally declared o well lewl
+[2014-05-06T07:29:12.715Z] (lobby) sparkbot was redirected to a private room by sparktrain.
+[2014-05-06T08:15:35.027Z] (lobby) sparktrain declared http://i.imgur.com/Mbyu0Tg.png
+[2014-05-06T08:15:49.017Z] (lobby) sparktrain declared 'http://i.imgur.com/Mbyu0Tg.png'
+[2014-05-06T08:17:21.862Z] (lobby) sparktrain declared [http://i.imgur.com/Mbyu0Tg.png]
+[2014-05-06T15:13:06.355Z] (lobby) sparktrain set modchat to +
+[2014-05-06T15:32:04.671Z] (lobby) sparktrain set modchat to false
+[2014-05-07T07:06:29.681Z] (lobby) sparktrain declared FGTS
+[2014-05-07T07:06:34.350Z] (lobby) sparktrain declared FGTS
+[2014-05-07T07:06:35.334Z] (lobby) sparktrain declared FGTS
+[2014-05-07T07:06:36.247Z] (lobby) sparktrain declared FGTS
+[2014-05-07T07:06:36.847Z] (lobby) sparktrain declared FGTS
+[2014-05-07T07:06:37.448Z] (lobby) sparktrain declared FGTS
+[2014-05-07T07:10:08.572Z] (lobby) sparktrain declared ATTENTION EVERYONE: I JUST CAME
+[2014-05-07T07:10:20.581Z] (lobby) spark's phone was promoted to Voice by sparktrain.
+[2014-05-07T07:10:25.060Z] (lobby) spark's phone was promoted to Driver by sparktrain.
+[2014-05-07T08:49:28.023Z] (lobby) MASTER OF FGTS was warned by sparktrain. (QUIT BEIN A FGT)
+[2014-05-07T18:47:14.890Z] (lobby) BurgerCarbink was promoted to Voice by sparktrain.
+[2014-05-07T18:47:21.631Z] (lobby) BurgerCarbink was promoted to Driver by sparktrain.
+[2014-05-07T18:47:22.543Z] (lobby) BurgerCarbink was promoted to Moderator by sparktrain.
+[2014-05-07T18:54:14.045Z] (lobby) (BurgerCarbink was demoted to Driver by sparktrain.)
+[2014-05-07T18:55:11.652Z] (lobby) DeathxShinigami was promoted to Voice by sparktrain.
+[2014-05-07T18:55:12.988Z] (lobby) DeathxShinigami was promoted to Driver by sparktrain.
+[2014-05-07T18:59:46.602Z] (lobby) BurgerCarbink was muted by sparktrain for 7 minutes. (FIRST MUTE EVAR)
+[2014-05-07T18:59:52.250Z] (lobby) BurgerCarbink was unmuted by sparktrain.
+[2014-05-07T19:00:53.560Z] (lobby) is seel gud? was muted by BurgerCarbink for 7 minutes.
+[2014-05-07T19:00:53.560Z] (lobby) is seel gud?'s alts were also muted: sparktrain
+[2014-05-07T19:01:04.568Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-07T19:01:59.355Z] (lobby) sparktrain was muted by sparktrain for 7 minutes. (IM A FGT)
+[2014-05-07T19:01:59.356Z] (lobby) sparktrain's alts were also muted: is seel gud?
+[2014-05-07T19:02:34.510Z] (lobby) is seel gud? was unmuted by sparktrain.
+[2014-05-07T19:02:37.382Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-07T19:02:47.996Z] (lobby) BurgerCarbink was muted by sparktrain for 7 minutes. (there ya go)
+[2014-05-07T19:02:53.156Z] (lobby) BurgerCarbink was unmuted by sparktrain.
+[2014-05-07T19:07:12.839Z] (lobby) sparktrain declared THE SERVER IS SHUTTING DOWN
+[2014-05-07T23:08:08.424Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-05-07T23:08:27.775Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-05-07T23:16:28.095Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (LET THE ABUSE BEGIN)
+[2014-05-07T23:16:36.095Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-07T23:18:43.448Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-05-07T23:24:29.196Z] (lobby) sparktrain declared HELLO DXS
+[2014-05-07T23:25:46.996Z] (lobby) sparktrain declared HOW DO I PUT IMAGES IN HERE
+[2014-05-07T23:26:19.686Z] (lobby) sparktrain declared SRSLY HOW DO I PUT IMAGES IN HERE
+[2014-05-07T23:26:41.013Z] (lobby) sparktrain declared YES :)
+[2014-05-07T23:27:10.068Z] (lobby) DeathxShinigami was redirected to a private room by sparktrain.
+[2014-05-07T23:49:25.024Z] (lobby) sparktrain globally declared FIRST LC DUBS BATTLE
+[2014-05-07T23:59:41.689Z] (lobby) sparktrain globally declared I'M RESTARTING, SERVER WILL BE BACK UP IN ABOUT HALF A MINUTE
+[2014-05-08T00:02:03.915Z] (lobby) sparkychild was promoted to Voice by sparktrain.
+[2014-05-08T00:02:05.608Z] (lobby) sparkychild was promoted to Driver by sparktrain.
+[2014-05-08T00:05:52.006Z] (lobby) (DeathxShinigami was demoted to Voice by sparktrain.)
+[2014-05-08T00:06:04.872Z] (lobby) DeathxShinigami was promoted to Driver by sparktrain.
+[2014-05-08T00:07:52.437Z] (lobby) is seel gud was muted by BurgerCarbink for 7 minutes.
+[2014-05-08T00:07:52.437Z] (lobby) is seel gud's alts were also muted: sparktrain
+[2014-05-08T00:07:59.006Z] (lobby) DeathxShinigami was locked from talking by sparktrain.
+[2014-05-08T00:08:03.387Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-08T00:08:08.613Z] (lobby) DeathxShinigami was unlocked by sparktrain.
+[2014-05-08T00:08:48.960Z] (lobby) is seel gud was muted by BurgerCarbink for 60 minutes.
+[2014-05-08T00:08:48.961Z] (lobby) is seel gud's alts were also muted: sparktrain
+[2014-05-08T00:08:57.029Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-08T00:09:12.921Z] (lobby) is seel gud was unmuted by BurgerCarbink.
+[2014-05-08T00:09:21.832Z] (lobby) is seel gud was muted by DeathxShinigami for 7 minutes.
+[2014-05-08T00:09:21.833Z] (lobby) is seel gud's alts were also muted: sparktrain
+[2014-05-08T00:09:37.141Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-08T00:12:00.082Z] (lobby) is seel gud was unmuted by sparktrain.
+[2014-05-08T00:13:25.418Z] (lobby) sparktrain declared HI FIZZ
+[2014-05-08T00:13:26.569Z] (lobby) Champion Fizz was muted by BurgerCarbink for 60 minutes.
+[2014-05-08T00:13:31.264Z] (lobby) Champion Fizz was unmuted by BurgerCarbink.
+[2014-05-08T00:13:50.066Z] (lobby) Champion Fizz was redirected to room Pokéraps by sparktrain.
+[2014-05-08T00:16:28.479Z] (lobby) Champion Fizz was promoted to Voice by sparktrain.
+[2014-05-08T00:18:10.567Z] (lobby) Champion Fizz was redirected to room Unzipping Room by sparktrain.
+[2014-05-08T00:31:38.342Z] (lobby) Corporal Levi was promoted to Voice by sparktrain.
+[2014-05-08T00:31:59.654Z] (lobby) BurgerCarbink was promoted to Moderator by sparktrain.
+[2014-05-08T00:50:19.658Z] (lobby) Corporal Levi was warned by sparkychild.
+[2014-05-08T00:54:46.911Z] (lobby) Champion Fizz was promoted to Driver by sparktrain.
+[2014-05-08T00:54:52.441Z] (lobby) Corporal Levi was promoted to Driver by sparktrain.
+[2014-05-08T00:57:24.745Z] (lobby) (BurgerCarbink was demoted to Driver by sparktrain.)
+[2014-05-08T01:15:49.980Z] (lobby) sparktrain declared stripping zeril's mods if he doesn't show up ololololo
+[2014-05-08T01:16:39.717Z] (lobby) (zeriloa was demoted to Driver by sparktrain.)
+[2014-05-08T01:16:40.770Z] (lobby) (zeriloa was demoted to Voice by sparktrain.)
+[2014-05-08T01:16:41.460Z] (lobby) (zeriloa was demoted to regular user by sparktrain.)
+[2014-05-08T01:27:42.203Z] (lobby) TheFenderStory was locked from talking by DeathxShinigami.
+[2014-05-08T01:27:57.595Z] (lobby) TheFenderStory was unlocked by BurgerCarbink.
+[2014-05-08T01:29:42.760Z] (lobby) zeriloa was locked from talking by DeathxShinigami.
+[2014-05-08T01:29:47.064Z] (lobby) zeriloa was warned by DeathxShinigami. (hi)
+[2014-05-08T01:29:47.599Z] (lobby) zeriloa was unlocked by BurgerCarbink.
+[2014-05-08T01:29:54.081Z] (lobby) zeriloa was promoted to Moderator by sparktrain.
+[2014-05-08T01:29:59.200Z] (lobby) TheFenderStory was promoted to Moderator by sparktrain.
+[2014-05-08T01:30:04.711Z] (lobby) (TheFenderStory was demoted to Driver by sparktrain.)
+[2014-05-08T01:30:05.935Z] (lobby) (TheFenderStory was demoted to Voice by sparktrain.)
+[2014-05-08T01:30:37.108Z] (lobby) sparktrain declared BYE FGTS
+[2014-05-08T01:30:51.269Z] (lobby) Champion Fizz was banned by zeriloa. (70.58.246.239)
+[2014-05-08T01:30:56.184Z] (lobby) champion fizz was unbanned by zeriloa.
+[2014-05-08T01:33:43.222Z] (lobby) Champion Fizz was unlocked by sparkychild.
+[2014-05-08T01:38:44.259Z] (lobby) Champion Fizz was redirected to a private room by zeriloa.
+[2014-05-08T02:52:26.134Z] (lobby) sparktrain globally declared im probs gonna restart soon to get tourneys working
+[2014-05-08T02:52:38.309Z] (lobby) sparktrain globally declared coz idk why tf they don't work
+[2014-05-08T02:52:50.309Z] (lobby) Antgeezy was locked from talking by sparktrain.
+[2014-05-08T02:53:01.921Z] (lobby) Antgeezy was unlocked by sparktrain.
+[2014-05-08T02:57:26.101Z] (lobby) sparktrain globally declared ok so we don't need 10 million global drivers
+[2014-05-08T03:00:36.116Z] (lobby) sparktrain globally declared so pls don't get mad at me
+[2014-05-08T03:00:42.711Z] (lobby) sparktrain globally declared cuz i like all of you
+[2014-05-08T03:02:15.590Z] (lobby) dsr95 was promoted to Voice by sparktrain.
+[2014-05-08T03:06:32.012Z] (lobby) zeriloa was promoted to Leader by sparktrain.
+[2014-05-08T03:08:11.810Z] (lobby) sparktrain globally declared CAN I DO A RESTART
+[2014-05-08T03:08:26.865Z] (lobby) sparktrain globally declared OK I'LL WAIT
+[2014-05-08T03:08:43.013Z] (lobby) sparktrain globally declared LUV YU SPARKY
+[2014-05-08T03:10:36.299Z] (lobby) Guest 14 was banned by sparktrain. (good night) (67.70.91.114)
+[2014-05-08T03:10:58.605Z] (lobby) corporal levi was unbanned by sparktrain.
+[2014-05-08T03:11:35.312Z] (lobby) ANTJIZZY was promoted to Voice by sparktrain.
+[2014-05-08T03:11:46.657Z] (lobby) ANTJIZZY was promoted to Driver by sparktrain.
+[2014-05-08T03:11:47.737Z] (lobby) ANTJIZZY was promoted to Moderator by sparktrain.
+[2014-05-08T03:12:00.011Z] (lobby) (Antjizzy was demoted to Driver by sparktrain.)
+[2014-05-08T03:12:01.024Z] (lobby) (Antjizzy was demoted to Voice by sparktrain.)
+[2014-05-08T03:12:01.971Z] (lobby) (Antjizzy was demoted to regular user by sparktrain.)
+[2014-05-08T03:13:56.124Z] (lobby) sparktrain globally declared RESTARTING
+[2014-05-08T03:15:08.398Z] (lobby) Nudisto was promoted to Voice by sparktrain.
+[2014-05-08T03:15:54.593Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (i probably would've)
+[2014-05-08T03:15:56.399Z] (lobby) Nudisto was banned by zeriloa. (wanna see abuse) (108.13.70.148)
+[2014-05-08T03:15:59.504Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-08T03:16:03.806Z] (lobby) nudisto was unbanned by zeriloa.
+[2014-05-08T03:16:13.381Z] (lobby) Nudisto was unlocked by zeriloa.
+[2014-05-08T03:19:44.404Z] (lobby) BurgerCarbink was redirected to a private room by sparktrain.
+[2014-05-08T03:23:26.080Z] (lobby) BrisSpicySheWeiner was locked from talking by DeathxShinigami.
+[2014-05-08T03:24:04.501Z] (lobby) BrisSpicySheWeiner was unlocked by sparktrain.
+[2014-05-08T03:24:17.949Z] (lobby) Nushitso was promoted to Voice by sparktrain.
+[2014-05-08T03:24:23.596Z] (lobby) Nushitso was promoted to Driver by sparktrain.
+[2014-05-08T03:24:24.740Z] (lobby) Nushitso was promoted to Moderator by sparktrain.
+[2014-05-08T03:24:32.663Z] (lobby) (Nushitso was demoted to Driver by sparktrain.)
+[2014-05-08T03:24:33.652Z] (lobby) (Nushitso was demoted to Voice by sparktrain.)
+[2014-05-08T03:24:34.364Z] (lobby) (Nushitso was demoted to regular user by sparktrain.)
+[2014-05-08T03:25:15.096Z] (lobby) zeriloa declared fizz is a fgt
+[2014-05-08T03:26:15.311Z] (lobby) zeriloa declared fizz wants you to join pokeraps what a fgt
+[2014-05-08T03:28:58.710Z] (lobby) sparktrain globally declared @Jac: zeriloa pls
+[2014-05-08T03:29:04.741Z] (lobby) sparktrain globally declared GET TOLD
+[2014-05-08T03:32:48.427Z] (lobby) Antgeezy was warned by zeriloa. (do you like it now)
+[2014-05-08T03:33:18.694Z] (lobby) sparktrain declared talk dirty to me
+[2014-05-08T03:33:35.030Z] (lobby) zeriloa declared LOL CURRY N STUFF
+[2014-05-08T03:34:15.097Z] (lobby) sparktrain was muted by sparktrain for 7 minutes. (flooding)
+[2014-05-08T03:34:22.942Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-08T03:37:17.815Z] (lobby) zeriloa declared ANTGEEZY HAS A POOPDICK
+[2014-05-08T03:39:21.354Z] (lobby) dsr95 was locked from talking by DeathxShinigami.
+[2014-05-08T03:42:23.509Z] (lobby) dsr95 was unlocked by DeathxShinigami.
+[2014-05-08T03:51:08.623Z] (lobby) Antgeezy was redirected to a private room by zeriloa.
+[2014-05-08T03:51:28.964Z] (lobby) sparktrain declared BE NICE CHILDREN
+[2014-05-08T03:52:49.651Z] (lobby) (zeriloa was demoted to Moderator by sparktrain.)
+[2014-05-08T03:53:12.236Z] (lobby) zeriloa was promoted to Leader by sparktrain.
+[2014-05-08T03:54:09.564Z] (lobby) sparktrain declared George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy! George Saussy!
+[2014-05-08T03:54:47.249Z] (lobby) zeriloa declared Dadaism4Sex's alts were also locked: Ornate Sexgasm, Rich YDDDDDD, fICICICICI, OtakuDaddy59, muslimBAIT, BetterThan3, Moaj, Onika, MFLX, NFLX, COOOOL OFF, The Fuckery, JJCJ OOOOH, island of pussy, cock mama, New Hotnesses, New Hookers, Old Money Stripper, Rock Solid DIPPS, Poontang Grabbah, Wet & Raw, Iggy Pussy Azalea
+[2014-05-08T03:55:43.870Z] (lobby) island of pussy was promoted to Voice by sparktrain.
+[2014-05-08T04:00:22.103Z] (lobby) H¡dden Power was promoted to Voice by zeriloa.
+[2014-05-08T04:05:00.788Z] (lobby) sparktrain declared PREM CONFIRMED FGT
+[2014-05-08T04:06:05.927Z] (lobby) sparktrain globally declared I WAS DRIVER IN LC ROOM FOR 3 SECONDS
+[2014-05-08T04:08:35.090Z] (lobby) zeriloa declared caledrith's mission to raise more accurate purrloins imo
+[2014-05-08T04:08:35.426Z] (lobby) Nudisto was muted by DeathxShinigami for 7 minutes. (I'm not going on a mormon mission)
+[2014-05-08T04:08:57.654Z] (lobby) sparktrain declared #Nudisto unzips jasmine
+[2014-05-08T04:08:58.255Z] (lobby) sparktrain declared ~jasmine groans with pleasure
+[2014-05-08T04:08:58.857Z] (lobby) sparktrain declared +sparkychild: oh ewwwwwwwwwww
+[2014-05-08T04:12:32.409Z] (lobby) Icanfeelthelove was unmuted by Antgeezy.
+[2014-05-08T04:12:51.631Z] (lobby) sparktrain declared Previous names: nudisto, brissheweiner, brisspicysheweiner, nushitso, mrnudistobeach, dxslurps, jasmineizaguy, noodle4ro
+[2014-05-08T04:14:53.105Z] (lobby) sparktrain globally declared TIME FOR SENTENCE GAME FGTS! /JOIN SENTENCE GAME
+[2014-05-08T04:15:38.157Z] (lobby) Antgeezy was redirected to room Sentence Game by sparktrain.
+[2014-05-08T04:47:32.461Z] (lobby) SpicySheWeiner was promoted to Moderator by zeriloa.
+[2014-05-08T04:47:40.239Z] (lobby) (SpicySheWeiner was demoted to Driver by zeriloa.)
+[2014-05-08T04:47:45.980Z] (lobby) (SpicySheWeiner was demoted to Voice by zeriloa.)
+[2014-05-08T04:47:51.841Z] (lobby) (SpicySheWeiner was demoted to regular user by zeriloa.)
+[2014-05-08T05:07:07.786Z] (lobby) sparktrain globally declared good night sparky
+[2014-05-08T05:26:50.979Z] (lobby) nne, guest22 were unlocked by zeriloa.
+[2014-05-08T05:28:51.203Z] (lobby) Nineage was promoted to Leader by sparktrain.
+[2014-05-08T05:29:45.336Z] (lobby) (TheFenderStory was demoted to regular user by zeriloa.)
+[2014-05-08T05:29:52.757Z] (lobby) TheFenderStory was promoted to Voice by zeriloa.
+[2014-05-08T05:30:40.265Z] (lobby) zeriloa was muted by sparktrain for 7 minutes. (best 30 seconds of my life)
+[2014-05-08T05:31:42.772Z] (lobby) Guest 4 was locked from talking by sparktrain. (unmuted)
+[2014-05-08T05:31:59.792Z] (lobby) zeriloa, Guest 4 were unlocked by sparktrain.
+[2014-05-08T05:32:24.816Z] (lobby) sparkhadgoatsex was promoted to Voice by sparktrain.
+[2014-05-08T05:32:26.261Z] (lobby) sparkhadgoatsex was promoted to Driver by sparktrain.
+[2014-05-08T05:32:27.199Z] (lobby) sparkhadgoatsex was promoted to Moderator by sparktrain.
+[2014-05-08T05:32:37.149Z] (lobby) sparkhadgoatsex was unmuted by sparktrain.
+[2014-05-08T05:32:59.078Z] (lobby) (sparkhadgoatsex was demoted to Driver by sparktrain.)
+[2014-05-08T05:33:00.334Z] (lobby) (sparkhadgoatsex was demoted to Voice by sparktrain.)
+[2014-05-08T05:33:01.381Z] (lobby) (sparkhadgoatsex was demoted to regular user by sparktrain.)
+[2014-05-08T05:47:59.885Z] (lobby) stoner linoone was redirected to a private room by zeriloa.
+[2014-05-08T05:48:23.926Z] (lobby) stoner linoone was promoted to Moderator by sparktrain.
+[2014-05-08T05:48:52.869Z] (lobby) (stoner linoone was demoted to Driver by sparktrain.)
+[2014-05-08T05:48:53.725Z] (lobby) (stoner linoone was demoted to Voice by sparktrain.)
+[2014-05-08T05:48:54.905Z] (lobby) (stoner linoone was demoted to regular user by sparktrain.)
+[2014-05-08T05:49:18.830Z] (lobby) Nudisto was promoted to Driver by sparktrain.
+[2014-05-08T05:49:34.940Z] (lobby) (Nudisto was demoted to Voice by zeriloa.)
+[2014-05-08T05:49:38.627Z] (lobby) Nudisto was promoted to Driver by zeriloa.
+[2014-05-08T05:50:27.692Z] (lobby) zeriloa declared 8================D
+[2014-05-08T05:50:46.197Z] (lobby) stoner linoone was promoted to Voice by sparktrain.
+[2014-05-08T05:55:09.742Z] (lobby) Antgeezy was redirected to a private room by zeriloa.
+[2014-05-08T05:55:32.738Z] (lobby) (zeriloa was demoted to Moderator by sparktrain.)
+[2014-05-08T05:57:31.191Z] (lobby) (zeriloa was demoted to Driver by sparktrain.)
+[2014-05-08T05:57:45.262Z] (lobby) zeriloa was promoted to Moderator by sparktrain.
+[2014-05-08T06:07:27.199Z] (lobby) sparktrain declared yes
+[2014-05-08T06:07:48.572Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (using IE and admitting it)
+[2014-05-08T06:07:54.086Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-08T06:09:25.664Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (10/10 would read again)
+[2014-05-08T06:09:30.681Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-08T06:13:36.065Z] (lobby) sparktrain declared #Nudisto: jasmines are usually hot
+[2014-05-08T06:13:36.665Z] (lobby) sparktrain declared #zeriloa: never met one
+[2014-05-08T06:13:37.266Z] (lobby) sparktrain declared #Nudisto: i have, most of them have been hot
+[2014-05-08T06:20:57.899Z] (lobby) BrisSpicySheWeiner was promoted to Moderator by sparktrain.
+[2014-05-08T06:28:48.946Z] (lobby) Krubby was promoted to Voice by sparktrain.
+[2014-05-08T06:29:01.528Z] (lobby) Krubby was muted by BrisSpicySheWeiner for 7 minutes.
+[2014-05-08T06:29:13.304Z] (lobby) Krubby was unmuted by BrisSpicySheWeiner.
+[2014-05-08T06:48:21.432Z] (lobby) sparktrain declared sexual tension imo
+[2014-05-08T06:56:49.024Z] (lobby) Krubby was redirected to a private room by Antgeezy.
+[2014-05-08T06:58:10.245Z] (lobby) dsr95 was redirected to a private room by sparktrain.
+[2014-05-08T07:07:13.981Z] (lobby) Krubby was warned by sparktrain. (omg no porn my eyes)
+[2014-05-08T07:08:52.521Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-05-08T07:11:40.570Z] (lobby) Krubby was banned by sparktrain. (good night! :]) (50.148.137.253)
+[2014-05-08T07:12:38.802Z] (lobby) krubby was unbanned by sparktrain.
+[2014-05-08T07:13:17.400Z] (lobby) Krubby was unlocked by sparktrain.
+[2014-05-08T07:19:35.785Z] (lobby) fucknigga was promoted to Voice by sparktrain.
+[2014-05-08T07:20:13.887Z] (lobby) Krubby was banned by sparktrain. (gnight bby dont cum too hard) (50.148.137.253)
+[2014-05-08T07:21:13.823Z] (lobby) krubby was unbanned by sparktrain.
+[2014-05-08T07:24:09.361Z] (lobby) CheeseBurgerCarbinkHelper was promoted to Voice by sparktrain.
+[2014-05-08T07:30:03.066Z] (lobby) sparktrain globally declared FAGGOTS LOL
+[2014-05-08T12:47:20.310Z] (lobby) sparktrain declared my balls
+[2014-05-08T13:21:24.768Z] (lobby) sparktrainⓐⓕⓚ set modchat to +
+[2014-05-08T18:59:59.748Z] (lobby) sparktrain set modchat to false
+[2014-05-08T19:00:36.964Z] (lobby) BrisSpicySheWeiner was promoted to Voice by sparktrain.
+[2014-05-08T19:00:39.364Z] (lobby) BrisSpicySheWeiner was promoted to Driver by sparktrain.
+[2014-05-08T19:00:40.220Z] (lobby) BrisSpicySheWeiner was promoted to Moderator by sparktrain.
+[2014-05-08T19:06:48.317Z] (lobby) BurgerCarbink was banned by BrisSpicySheWeiner. (107.184.191.66)
+[2014-05-08T19:07:00.073Z] (lobby) BurgerCarbink was unbanned by BrisSpicySheWeiner.
+[2014-05-08T19:21:40.380Z] (lobby) sparktrain declared is chat ded
+[2014-05-08T19:29:03.097Z] (lobby) sparktrain declared Antgeezy!!!!
+[2014-05-08T19:29:03.697Z] (lobby) sparktrain declared Where is your Aunt Geezy?!?!?
+[2014-05-08T19:44:20.759Z] (lobby) (stoner linoone was demoted to regular user by sparktrain.)
+[2014-05-08T19:48:35.216Z] (lobby) sparktrain declared talk dirty to me
+[2014-05-08T19:48:46.775Z] (lobby) sparktrain declared no u
+[2014-05-08T19:50:11.868Z] (lobby) (Antgeezy was demoted to Driver by sparktrain.)
+[2014-05-08T19:50:20.132Z] (lobby) Antgeezy was muted by BrisSpicySheWeiner for 7 minutes.
+[2014-05-08T19:50:31.307Z] (lobby) Antgeezy was unmuted by BrisSpicySheWeiner.
+[2014-05-08T19:51:02.172Z] (lobby) Antgeezy was promoted to Moderator by sparktrain.
+[2014-05-08T19:52:24.857Z] (lobby) BurgerCarbink was muted by zeriloa for 60 minutes. (i don't take shit from a ho)
+[2014-05-08T19:53:32.957Z] (lobby) BurgerCarbink was locked from talking by BrisSpicySheWeiner.
+[2014-05-08T19:54:15.246Z] (lobby) BurgerCarbink was unlocked by zeriloa.
+[2014-05-08T19:54:22.311Z] (lobby) BurgerCarbink was unmuted by zeriloa.
+[2014-05-08T19:55:09.031Z] (lobby) BrisSpicySheWeiner was promoted to Leader by sparktrain.
+[2014-05-08T19:55:17.505Z] (lobby) zeriloa was redirected to a private room by BrisSpicySheWeiner.
+[2014-05-08T19:55:32.331Z] (lobby) (BrisSpicySheWeiner was demoted to Moderator by sparktrain.)
+[2014-05-08T19:58:52.820Z] (lobby) (brisspicysheweiner was demoted to Driver by sparktrain.)
+[2014-05-08T19:58:58.585Z] (lobby) (brisspicysheweiner was demoted to Voice by sparktrain.)
+[2014-05-08T19:58:59.509Z] (lobby) (brisspicysheweiner was demoted to regular user by sparktrain.)
+[2014-05-08T20:00:50.749Z] (lobby) zeriloa was redirected to a private room by sparktrain.
+[2014-05-08T20:04:09.220Z] (lobby) Aerow was promoted to Voice by sparktrain.
+[2014-05-08T20:04:36.439Z] (lobby) zeriloa was redirected to a private room by sparktrain.
+[2014-05-08T20:04:58.797Z] (lobby) zeriloa was muted by sparktrain for 7 minutes. (tell me when you've stopped manstruating)
+[2014-05-08T20:05:51.643Z] (lobby) zeriloa was unmuted by sparktrain.
+[2014-05-08T20:13:45.731Z] (lobby) sparktrain declared I <3 zeril
+[2014-05-08T20:17:43.770Z] (lobby) Champion Fizz was redirected to a private room by zeriloa.
+[2014-05-08T20:18:23.705Z] (lobby) Champion Fizz was redirected to a private room by Nudisto.
+[2014-05-08T20:27:31.644Z] (lobby) Penc¡l Eraser was promoted to Voice by sparktrain.
+[2014-05-08T20:28:31.797Z] (lobby) sparktrain declared +Krubby: i'm a radical dude with a radical 'tude
+[2014-05-08T20:29:47.256Z] (lobby) Penc¡l Eraser was muted by Nudisto for 7 minutes.
+[2014-05-08T20:30:28.302Z] (lobby) Penc¡l Eraser was unmuted by sparktrain.
+[2014-05-08T20:32:07.212Z] (lobby) Penc¡l Eraser was redirected to a private room by Nudisto.
+[2014-05-08T20:36:02.605Z] (lobby) sparktrain declared ok guys i'm leaving
+[2014-05-08T20:36:08.192Z] (lobby) sparktrain declared server stays on
+[2014-05-08T20:36:24.214Z] (lobby) sparktrain declared i expect there to be no abuse
+[2014-05-08T21:10:42.394Z] (lobby) Penc¡l Eraser was redirected to a private room by Antgeezy.
+[2014-05-08T21:34:55.976Z] (lobby) Penc¡l Eraser was redirected to a private room by Antgeezy.
+[2014-05-08T21:49:36.929Z] (lobby) Penc¡l Eraser was banned by zeriloa. (they're fucking calm) (64.246.124.229)
+[2014-05-08T21:50:17.013Z] (lobby) Penc¡l Eraser was unbanned by zeriloa.
+[2014-05-08T21:50:46.863Z] (lobby) Penc¡l Eraser was unlocked by zeriloa.
+[2014-05-08T22:12:07.804Z] (lobby) Chromatic Art was redirected to a private room by zeriloa.
+[2014-05-08T22:27:10.672Z] (lobby) Corporal Levi was redirected to a private room by Antgeezy.
+[2014-05-08T22:31:00.050Z] (lobby) Corporal Levi was warned by zeriloa. (don't abuse fgt)
+[2014-05-08T22:56:54.872Z] (lobby) Corporal Levi was warned by zeriloa. (fucktard)
+[2014-05-08T22:57:03.165Z] (lobby) (Nineage notes: FUCK)
+[2014-05-08T22:57:06.305Z] (lobby) Nineage, guest40 were unlocked by zeriloa.
+[2014-05-08T22:58:31.825Z] (lobby) DeathXSalami was promoted to Driver by Nineage.
+[2014-05-08T23:00:06.908Z] (lobby) DeathXSalami was redirected to a private room by Antgeezy.
+[2014-05-08T23:04:37.621Z] (lobby) Corporal Levi was redirected to a private room by DeathXSalami.
+[2014-05-08T23:18:05.182Z] (lobby) Chromatic Art was banned by Antgeezy. (184.1.107.74)
+[2014-05-08T23:18:10.839Z] (lobby) chromatic art was unbanned by Antgeezy.
+[2014-05-08T23:18:41.086Z] (lobby) Chromatic Art was unlocked by zeriloa.
+[2014-05-08T23:20:19.366Z] (lobby) Penc¡l Eraser was muted by zeriloa for 60 minutes. (impersonating ROs)
+[2014-05-08T23:20:38.413Z] (lobby) Penc¡l Eraser was unmuted by zeriloa.
+[2014-05-08T23:22:16.993Z] (lobby) Penc¡l Eraser was muted by Nudisto for 7 minutes.
+[2014-05-08T23:22:35.340Z] (lobby) Penc¡l Eraser was unmuted by Antgeezy.
+[2014-05-08T23:24:04.089Z] (lobby) Nudisto was warned by zeriloa. (anus lewl)
+[2014-05-08T23:27:51.947Z] (lobby) smdcae was redirected to a private room by Nudisto.
+[2014-05-08T23:28:15.294Z] (lobby) Nudisto was redirected to a private room by zeriloa.
+[2014-05-08T23:29:20.281Z] (lobby) Penc¡l Eraser was locked from talking by Antgeezy.
+[2014-05-08T23:30:50.841Z] (lobby) Penc¡l Eraser was unlocked by Nineage.
+[2014-05-08T23:31:21.177Z] (lobby) Caledrith was redirected to a private room by zeriloa.
+[2014-05-08T23:35:04.079Z] (lobby) (Nineage notes: Do I auth cale?)
+[2014-05-08T23:38:35.485Z] (lobby) sparktrain declared daddy's home
+[2014-05-08T23:39:03.799Z] (lobby) Caledrith was promoted to Voice by Nineage.
+[2014-05-08T23:39:19.336Z] (lobby) sparkisadickcheese was muted by sparktrain for 7 minutes. (no)
+[2014-05-08T23:39:35.821Z] (lobby) sparkisadickcheese was unmuted by sparktrain.

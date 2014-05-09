@@ -1,0 +1,12 @@
+[2014-05-08T00:15:42.736Z] (lcdoubles) Antgeezy was appointed Room Owner by sparktrain.
+[2014-05-08T03:35:55.616Z] (lcdoubles) TheFenderStory was promoted to Room Voice by Antgeezy.
+[2014-05-08T03:36:04.833Z] (lcdoubles) TheFenderStory was promoted to Room Driver by Antgeezy.
+[2014-05-08T03:36:43.231Z] (lcdoubles) TheFenderStory was promoted to Room Moderator by Antgeezy.
+[2014-05-08T13:22:04.391Z] (lcdoubles) sparktrainⓐⓕⓚ set modchat to +
+[2014-05-08T13:22:54.360Z] (lcdoubles) sparktrainⓐⓕⓚ set modchat to %
+[2014-05-08T19:16:37.947Z] (lcdoubles) Corporal Levi was promoted to Room Voice by Antgeezy.
+[2014-05-08T19:16:47.602Z] (lcdoubles) Corporal Levi was promoted to Room Driver by Antgeezy.
+[2014-05-08T19:16:56.149Z] (lcdoubles) Corporal Levi was promoted to Room Moderator by Antgeezy.
+[2014-05-08T19:17:03.829Z] (lcdoubles) BurgerCarbink was promoted to Room Voice by Antgeezy.
+[2014-05-08T19:17:10.895Z] (lcdoubles) BurgerCarbink was promoted to Room Driver by Antgeezy.
+[2014-05-08T20:47:36.259Z] (lcdoubles) Antgeezy set modchat to false
