@@ -1,5 +1,5 @@
 [
-{"title":"Lobby","isOfficial":true,"autojoin":false,"desc":"Welcome to SparkServer!","modchat":false},
+{"title":"Lobby","isOfficial":true,"autojoin":false,"desc":"Welcome to SparkServer!","modchat":false, "auth":{"Caledrith":"~"}}
 {"title":"Little Cup","isOfficial":true,"desc":"Get involved with XY Little Cup! http://goo.gl/m64S68 fgt","auth":{"zeriloa":"#","corporallevi":"@","thefenderstory":"%","astara":"+","sparkychild":"@","nudisto":"@","championfizz":"%","burgercarbink":"%","aerow":"%"},"modchat":false},
 {"title":"LC UU","desc":"LC UU Rules + Banlist: http://goo.gl/ViCGKw -- based on Apr 2014 LC 1630 stats","auth":{"deathxshinigami":"#"},"modchat":"%"},
 {"title":"LC Ubers","desc":"LC Ubers Rules: http://goo.gl/5rq4c0 ~ Dragon Rage, Sonic Boom unbanned! fgt","auth":{"sparkychild":"#","deathxshinigami":"@","championfizz":"+","corporallevi":"+","burgercarbink":"%","thefenderstory":"@","astara":"+","nudisto":"+","dsr95":"%","antgeezy":"+","hddenpower":"+"},"modchat":"+"},
