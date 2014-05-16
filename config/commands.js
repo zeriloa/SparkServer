@@ -211,7 +211,7 @@ var commands = exports.commands = {
 	},
 
 	unzip: function(target, room, user) {
-		return this.parse('/me unzips');
+		return this.parse('!showimage unzips.jpg, 80, 80');
 	},
 	
 	/*********************************************************
