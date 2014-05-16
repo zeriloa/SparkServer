@@ -10,7 +10,6 @@ exports.Formats = [
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite']
                    },
-                 
                    {
                    name: "LC Sneasel",
                    section: "XY LC - Past Metas",
@@ -19,7 +18,6 @@ exports.Formats = [
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['Dragon Rage', 'Sonic Boom', 'LC Uber']
                    },
-                   
                    {
                    name: "LC TangYan",
                    section: "XY LC - Past Metas",
@@ -28,7 +26,6 @@ exports.Formats = [
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['Dragon Rage', 'Sonic Boom', 'LC Uber', 'Sneasel']
                    },
-                   
                    {
                    name: "LC GligSwirl",
                    section: "XY LC - Past Metas",
@@ -37,7 +34,6 @@ exports.Formats = [
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['Dragon Rage', 'Sonic Boom', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma']
                    },
-                   
                    {
                    name: "LC KrowTits",
                    section: "XY LC - Past Metas",
@@ -46,8 +42,33 @@ exports.Formats = [
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['Dragon Rage', 'Sonic Boom', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar']
                    },
-                 
-            
+                   {
+                   name: "[Gen 5] LC",
+                   section: "Past Gen LC",
+                   
+                   mod: 'gen5',
+                   maxLevel: 5,
+                   ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
+                   banlist: ['Berry Juice', 'Soul Dew', 'Dragon Rage', 'Sonic Boom', 'LC Uber', 'Gligar', 'Scyther', 'Sneasel', 'Tangela']
+                   },
+                   {
+                   name: "[Gen 4] LC (beta)",
+                   section: "Past Gen LC",
+                   
+                   mod: 'gen4',
+                   maxLevel: 5,
+                   ruleset: ['Pokemon', 'Standard', 'Little Cup'],
+                   banlist: ['Berry Juice', 'DeepSeaTooth', 'Dragon Rage', 'Sonic Boom', 'Meditite', 'Misdreavus', 'Murkrow', 'Scyther', 'Sneasel', 'Tangela', 'Yanma']
+                   },
+                   {
+                   name: "[Gen 3] LC (beta)",
+                   section: "Past Gen LC",
+                   
+                   maxLevel: 5,
+                   mod: 'gen3',
+                   ruleset: ['Pokemon', 'Standard', 'Little Cup'],
+                   banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'Scyther', 'Chansey', 'Meditite', 'Omanyte', 'Wynaut', 'Zigzagoon', 'OU', 'BL', 'UU', 'NU', 'Uber', 'Bayleef', 'Cascoon', 'Charmeleon', 'Clefairy', 'Combusken', 'Croconaw', 'Dragonair', 'Flaaffy',  'Gloom', 'Golbat', 'Graveler', 'Grovyle', 'Haunter', 'Ivysaur', 'Jigglypuff', 'Kakuna', 'Kirlia', 'Lairon', 'Lombre ', 'Loudred', 'Machoke', 'Marill', 'Marshstomp', 'Metang', 'Metapod', 'Nidorino', 'Nidorina', 'Nuzleaf', 'Pidgeotto', 'Pikachu', 'Poliwhirl', 'Pupitar', 'Quilava', 'Seadra', 'Sealeo', 'Shelgon', 'Silcoon', 'Skiploom', 'Vibrava', 'Vigoroth', 'Wartortle', 'Weepinbell']
+                   },
                    {
                    name: "LC Ubers",
                    section: "XY LC - Other Metas",
@@ -56,7 +77,6 @@ exports.Formats = [
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['Pikachu']
                    },
-                   
                    {
                    name: "LC UU",
                    section: "XY LC - Other Metas",
@@ -65,27 +85,26 @@ exports.Formats = [
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite', 'Abra', 'Aipom', 'Archen', 'Bunnelby', 'Carvanha', 'Chinchou', 'Clamperl', 'Corphish', 'Cottonee', 'Cranidos', 'Croagunk', 'Diglett', 'Drilbur', 'Dwebble', 'Elekid', 'Ferroseed', 'Fletchling', 'Foongus', 'Gastly', 'Honedge', 'Houndour', 'Larvesta', 'Magnemite', 'Mienfoo', 'Misdreavus', 'Onix', 'Pawniard', 'Ponyta', 'Porygon', 'Scraggy', 'Shellder', 'Slowpoke', 'Snubbull', 'Spritzee', 'Staryu', 'Taillow', 'Timburr', 'Tirtouga', 'Torchic', 'Trubbish', 'Vullaby', 'Vulpix']
                    },
-                   
                    {
-                   name: "LC Doubles (beta)",
+                   name: "LC Doubles",
                    section: "XY LC - Other Metas",
                    
                    gameType: 'doubles',
                    maxLevel: 5,
                    ruleset: ['Pokemon', 'Little Cup', 'Species Clause', 'Moody Clause', 'OHKO Clause', 'Endless Battle Clause', 'Team Preview'],
-                   banlist: ['Unreleased', 'Illegal', 'Dragon Rage', 'Sonic Boom', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma']
+                   banlist: ['Unreleased', 'Illegal', 'Dragon Rage', 'Sonic Boom', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Gligar']
                    },
-                   
                    {
                    name: "LC Sky Battles (beta)",
                    section: "XY LC - Other Metas",
                    
+                   searchShow: false,
                    maxLevel: 5,
                    validateSet: function (set) {
                    var template = this.getTemplate(set.species || set.name);
                    if (template.types.indexOf('Flying') === -1 && set.ability !== 'Levitate') {
                    return [set.species + " is not a Flying type and does not have the ability Levitate."];
-                   }
+                        }
                    },
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['LC Uber', 'Gligar', 'Dragon Rage', 'Sonic Boom', 'Iron Ball', 'Body Slam', 'Bulldoze', 'Dig', 'Dive', 'Earth Power', 'Earthquake', 'Electric Terrain', 'Fire Pledge', 'Fissure', 'Flying Press', 'Frenzy Plant', 'Geomancy', 'Grass Knot', 'Grass Pledge', 'Grassy Terrain', 'Gravity', 'Heat Crash', 'Heavy Slam', 'Ingrain', "Land's Wrath", 'Magnitude', 'Mat Block', 'Misty Terrain', 'Mud Sport', 'Muddy Water', 'Rototiller', 'Seismic Toss', 'Slam', 'Smack Down', 'Spikes', 'Stomp', 'Substitute', 'Surf', 'Toxic Spikes', 'Water Pledge', 'Water Sport', 'Archen', 'Doduo', 'Ducklett', 'Fletchling', 'Gastly', 'Hoothoot', 'Murkrow', 'Natu', 'Pidgey', 'Pidove', 'Rufflet', 'Spearow', 'Starly', 'Taillow', 'Vullaby'
@@ -144,6 +163,13 @@ exports.Formats = [
 		ruleset: ['UU'],
 		banlist: ['UU', 'BL2']
 	},
+    {
+    name: "NU (beta)",
+    section: "XY Singles",
+                   
+    ruleset: ['RU (beta)'],
+    banlist: ['RU', 'BL3']
+    },
 	{
 		name: "XY Battle Spot Singles",
 		section: "XY Singles",
@@ -325,35 +351,9 @@ exports.Formats = [
 	///////////////////////////////////////////////////////////////////
 
 	{
-		name: "Almost Any Ability",
-		section: "OM of the Month",
-
-		ruleset: ['Pokemon', 'Team Preview', 'Standard'],
-		banlist: ['Ignore Illegal Abilities', 'Uber', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Soul Dew', 'Swagger',
-			'Archeops', 'Kyurem-Black', 'Regigigas', 'Slaking', 'Shedinja + Sturdy', 'Smeargle + Prankster'
-		],
-		validateSet: function(set) {
-			var bannedAbilities = {'Arena Trap': 1, 'Contrary': 1, 'Fur Coat': 1, 'Huge Power': 1, 'Imposter': 1, 'Parental Bond': 1, 'Pure Power': 1, 'Shadow Tag': 1, 'Simple':1, 'Speed Boost': 1, 'Wonder Guard': 1};
-			if (set.ability in bannedAbilities) {
-				var template = this.getTemplate(set.species || set.name);
-				var legalAbility = false;
-				for (var i in template.abilities) {
-					if (set.ability === template.abilities[i]) legalAbility = true;
-				}
-				if (!legalAbility) return ['The ability "' + set.ability + '" is banned on Pokémon that do not naturally have it.'];
-			}
-		}
-	},
-	{
-		name: "OU Theorymon",
-		section: "OM of the Month",
-
-		mod: 'theorymon',
-		ruleset: ['OU']
-	},
-	{
 		name: "CAP",
 		section: "Other Metagames",
+        column: 2,
 
 		ruleset: ['CAP Pokemon', 'Standard', 'Team Preview'],
 		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Swagger']
@@ -588,15 +588,6 @@ exports.Formats = [
 		banlist: ['RU', 'BL3', 'Prankster + Assist']
 	},
 	{
-		name: "[Gen 5] LC",
-		section: "BW2 Singles",
-
-		mod: 'gen5',
-		maxLevel: 5,
-		ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
-		banlist: ['Berry Juice', 'Soul Dew', 'Dragon Rage', 'Sonic Boom', 'LC Uber', 'Gligar', 'Scyther', 'Sneasel', 'Tangela']
-	},
-	{
 		name: "[Gen 5] GBU Singles",
 		section: "BW2 Singles",
 
@@ -717,15 +708,6 @@ exports.Formats = [
 		banlist: ['Uber', 'OU', 'BL']
 	},
 	{
-		name: "[Gen 4] LC (beta)",
-		section: "Past Generations",
-
-		mod: 'gen4',
-		maxLevel: 5,
-		ruleset: ['Pokemon', 'Standard', 'Little Cup'],
-		banlist: ['Berry Juice', 'DeepSeaTooth', 'Dragon Rage', 'Sonic Boom', 'Meditite', 'Misdreavus', 'Murkrow', 'Scyther', 'Sneasel', 'Tangela', 'Yanma']
-	},
-	{
 		name: "[Gen 4] Custom Game",
 		section: "Past Generations",
 
@@ -742,15 +724,6 @@ exports.Formats = [
 		ruleset: ['Pokemon', 'Standard'],
 		banlist: ['Uber', 'Smeargle + Ingrain']
 	},
-    {
-    name: "[Gen 3] LC (beta)",
-    section: "Past Generations",
-                   
-    maxLevel: 5,
-    mod: 'gen3',
-    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
-    banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'Scyther', 'Tangela', 'Uber', 'OU', 'BL', 'UU', 'NU', 'Bayleef', 'Cascoon', 'Charmeleon', 'Clefairy', 'Combusken', 'Croconaw', 'Dragonair', 'Flaaffy',  'Gloom', 'Golbat', 'Graveler', 'Grovyle', 'Haunter', 'Ivysaur', 'Jigglypuff', 'Kakuna', 'Kirlia', 'Lairon', 'Lombre ', 'Loudred', 'Machoke', 'Marill', 'Marshstomp', 'Metang', 'Metapod', 'Nidorino', 'Nidorina', 'Nuzleaf', 'Pidgeotto', 'Pikachu', 'Poliwhirl', 'Pupitar', 'Quilava', 'Seadra', 'Sealeo', 'Shelgon', 'Silcoon', 'Skiploom', 'Vibrava', 'Vigoroth', 'Wartortle', 'Weepinbell']
-    },
 	{
 		name: "[Gen 3] Custom Game",
 		section: "Past Generations",
