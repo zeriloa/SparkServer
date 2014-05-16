@@ -211,7 +211,7 @@ var commands = exports.commands = {
 	},
 
 	unzip: function(target, room, user) {
-		return this.parse('!showimage http://imgur.com/Z4Q1lWs, 80, 80');
+		return this.parse('/showimage http://i.imgur.com/Z4Q1lWs.jpg, 80, 80');
 	},
 	
 	/*********************************************************
