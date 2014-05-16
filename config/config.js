@@ -138,7 +138,20 @@ exports.herokuhack = false;
 // Your server *must* be registered in order for your custom avatars to be
 // displayed in the client.
 exports.customavatars = {
-	//'userid': 'customavatar.png'
+	'nudisto': 'nudisto.png',
+    'thefenderstory': 'fender.png',
+    'championfizz': 'fizz.png',
+    'corporallevi': 'levi.png',
+    'chromaticart': 'chrom.png',
+    'queenlucy': 'lucy.png',
+    'sparktrain': 'spark.png',
+    'sparkbot': 'sparkbot.png',
+    'antgeezy': 'ant.png',
+    'burgercarbink': 'burger.png',
+    'stonerlinoone': 'stoner.png',
+    'zeriloa': 'zeril.png',
+    'deathxshinigami': 'dxs.png',
+    'krubby': 'krubby.png'
 };
 
 // appealurl - specify a URL containing information on how users can appeal
