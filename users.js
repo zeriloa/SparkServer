@@ -33,7 +33,7 @@ var users = {};
 var prevUsers = {};
 var numUsers = 0;
 
-var bannedIps = {'98.­246.­166.­164'};
+var bannedIps = {};
 var bannedUsers = {};
 var lockedIps = {};
 var lockedUsers = {};
