@@ -41,12 +41,12 @@ var GlobalRoom = (function () {
 		if (!this.chatRoomData.length) {
 			this.chatRoomData = [{
 				title: 'Lobby',
-				autojoin: true
+				autojoin: false
 			}, {
 				title: 'Staff',
 				isPrivate: true,
 				staffRoom: true,
-				staffAutojoin: true
+				staffAutojoin: false
 			}];
 		}
 
