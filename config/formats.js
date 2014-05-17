@@ -9,6 +9,7 @@ exports.Formats = [
                    maxLevel: 5,
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite']
+                   //The 'LC Uber' term has been edited to only refer to Scyther, to ease implementing each XY LC stage
                    },
                    {
                    name: "LC Sneasel",
@@ -94,6 +95,23 @@ exports.Formats = [
                    ruleset: ['Pokemon', 'Little Cup', 'Species Clause', 'Moody Clause', 'OHKO Clause', 'Endless Battle Clause', 'Team Preview'],
                    banlist: ['Unreleased', 'Illegal', 'Dragon Rage', 'Sonic Boom', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Gligar']
                    },
+		 {
+		name: "LC 1v1",
+		section: 'XY LC - Other Metas',
+		
+		maxLevel: 5,
+		onBegin: function () {
+			this.p1.pokemon = this.p1.pokemon.slice(0, 1);
+			this.p1.pokemonLeft = this.p1.pokemon.length;
+			this.p2.pokemon = this.p2.pokemon.slice(0, 1);
+			this.p2.pokemonLeft = this.p2.pokemon.length;
+		},
+		ruleset: ['Pokemon', 'Standard', 'Little Cup'],
+		banlist: ['Unreleased', 'Illegal', 'Focus Sash' 'Destiny Bond', 'Explosion', 'Final Gambit', 'Healing Wish', 'Lunar Dance', 'Memento', 'Perish Song', 'Selfdestruct', 'Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite']
+		// Kept all bans for Standard 1v1, and kept all bans for current XY LC
+		// Basically, a combo of the two metas :]
+		},
+		{
                    {
                    name: "LC Sky Battles (beta)",
                    section: "XY LC - Other Metas",
@@ -107,11 +125,11 @@ exports.Formats = [
                         }
                    },
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
-                   banlist: ['LC Uber', 'Gligar', 'Dragon Rage', 'Sonic Boom', 'Iron Ball', 'Body Slam', 'Bulldoze', 'Dig', 'Dive', 'Earth Power', 'Earthquake', 'Electric Terrain', 'Fire Pledge', 'Fissure', 'Flying Press', 'Frenzy Plant', 'Geomancy', 'Grass Knot', 'Grass Pledge', 'Grassy Terrain', 'Gravity', 'Heat Crash', 'Heavy Slam', 'Ingrain', "Land's Wrath", 'Magnitude', 'Mat Block', 'Misty Terrain', 'Mud Sport', 'Muddy Water', 'Rototiller', 'Seismic Toss', 'Slam', 'Smack Down', 'Spikes', 'Stomp', 'Substitute', 'Surf', 'Toxic Spikes', 'Water Pledge', 'Water Sport', 'Archen', 'Doduo', 'Ducklett', 'Fletchling', 'Gastly', 'Hoothoot', 'Murkrow', 'Natu', 'Pidgey', 'Pidove', 'Rufflet', 'Spearow', 'Starly', 'Taillow', 'Vullaby'
-                             ] // All moves which have no effect in Sky Battles are banned for simplicity
-                                // All pokemon with "grounded" sprites are ineligible so consistency with in-game eligibility is maintained.
-                                // LC Sky Battles Ubers are Scyther and Gligar
-                   
+                   banlist: ['LC Uber', 'Gligar', 'Dragon Rage', 'Sonic Boom', 'Iron Ball', 'Body Slam', 'Bulldoze', 'Dig', 'Dive', 'Earth Power', 'Earthquake', 'Electric Terrain', 'Fire Pledge', 'Fissure', 'Flying Press', 'Frenzy Plant', 'Geomancy', 'Grass Knot', 'Grass Pledge', 'Grassy Terrain', 'Gravity', 'Heat Crash', 'Heavy Slam', 'Ingrain', "Land's Wrath", 'Magnitude', 'Mat Block', 'Misty Terrain', 'Mud Sport', 'Muddy Water', 'Rototiller', 'Seismic Toss', 'Slam', 'Smack Down', 'Spikes', 'Stomp', 'Substitute', 'Surf', 'Toxic Spikes', 'Water Pledge', 'Water Sport', 'Archen', 'Doduo', 'Ducklett', 'Fletchling', 'Gastly', 'Hoothoot', 'Murkrow', 'Natu', 'Pidgey', 'Pidove', 'Rufflet', 'Spearow', 'Starly', 'Taillow', 'Vullaby'] 
+                   // All moves which have no effect in Sky Battles are banned for simplicity
+                   // All pokemon with "grounded" sprites are ineligible so consistency with in-game eligibility is maintained.
+                   // LC Sky Battles Ubers are Scyther and Gligar
+                   // man this is such a joke meta lol
                    },
                   
                    
