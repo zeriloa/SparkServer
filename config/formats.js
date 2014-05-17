@@ -105,13 +105,13 @@ exports.Formats = [
 			this.p1.pokemonLeft = this.p1.pokemon.length;
 			this.p2.pokemon = this.p2.pokemon.slice(0, 1);
 			this.p2.pokemonLeft = this.p2.pokemon.length;
-		},
+                   },
 		ruleset: ['Pokemon', 'Standard', 'Little Cup'],
 		banlist: ['Unreleased', 'Illegal', 'Focus Sash', 'Destiny Bond', 'Explosion', 'Final Gambit', 'Healing Wish', 'Lunar Dance', 'Memento', 'Perish Song', 'Selfdestruct', 'Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite']
 		// Kept all bans for Standard 1v1, and kept all bans for current XY LC
 		// Basically, a combo of the two metas :]
-		},
-		{
+                   },
+                   
                    {
                    name: "LC Sky Battles (beta)",
                    section: "XY LC - Other Metas",
@@ -122,7 +122,7 @@ exports.Formats = [
                    var template = this.getTemplate(set.species || set.name);
                    if (template.types.indexOf('Flying') === -1 && set.ability !== 'Levitate') {
                    return [set.species + " is not a Flying type and does not have the ability Levitate."];
-                        }
+                   }
                    },
                    ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
                    banlist: ['LC Uber', 'Gligar', 'Dragon Rage', 'Sonic Boom', 'Iron Ball', 'Body Slam', 'Bulldoze', 'Dig', 'Dive', 'Earth Power', 'Earthquake', 'Electric Terrain', 'Fire Pledge', 'Fissure', 'Flying Press', 'Frenzy Plant', 'Geomancy', 'Grass Knot', 'Grass Pledge', 'Grassy Terrain', 'Gravity', 'Heat Crash', 'Heavy Slam', 'Ingrain', "Land's Wrath", 'Magnitude', 'Mat Block', 'Misty Terrain', 'Mud Sport', 'Muddy Water', 'Rototiller', 'Seismic Toss', 'Slam', 'Smack Down', 'Spikes', 'Stomp', 'Substitute', 'Surf', 'Toxic Spikes', 'Water Pledge', 'Water Sport', 'Archen', 'Doduo', 'Ducklett', 'Fletchling', 'Gastly', 'Hoothoot', 'Murkrow', 'Natu', 'Pidgey', 'Pidove', 'Rufflet', 'Spearow', 'Starly', 'Taillow', 'Vullaby'] 
