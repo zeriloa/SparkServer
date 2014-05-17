@@ -66,12 +66,12 @@ exports.loginserverpublickey = "-----BEGIN RSA PUBLIC KEY-----\n" +
 //   be more than one line of messages.
 //   This feature can lag larger servers - turn this off if your server is
 //   getting more than 80 or so users.
-exports.reportjoins = true;
+exports.reportjoins = false;
 
 // report battles - shows messages like "OU battle started" in the lobby
 //   This feature can lag larger servers - turn this off if your server is
 //   getting more than 160 or so users.
-exports.reportbattles = true;
+exports.reportbattles = false;
 
 // moderated chat - prevent unvoiced users from speaking
 //   This should only be enabled in special situations, such as temporarily
@@ -109,7 +109,7 @@ exports.consoleips = ['127.0.0.1','sparktrain'];
 exports.watchconfig = true;
 
 // logchat - whether to log chat rooms.
-exports.logchat = true;
+exports.logchat = false;
 
 // loguserstats - how often (in milliseconds) to write user stats to the
 // lobby log. This has no effect if `logchat` is disabled.
@@ -124,7 +124,7 @@ exports.simulatorprocesses = 1;
 
 // inactiveuserthreshold - how long a user must be inactive before being pruned
 // from the `users` array. The default is 1 hour.
-exports.inactiveuserthreshold = 1000 * 60 * 60;
+exports.inactiveuserthreshold = 1000 * 60 * 60 * 24;
 
 // Set this to true if you are using Pokemon Showdown on Heroku.
 exports.herokuhack = false;
