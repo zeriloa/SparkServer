@@ -1,0 +1,3 @@
+[2014-05-18T01:38:02.870Z] (lobby) sparktrain declared before people ask about rooms, they aren't deleted, I just commented them out for now (so i can add em all back at any time)
+[2014-05-18T02:24:00.093Z] (lobby) sparktrain declared before people ask about rooms, they aren't deleted, I just commented them out for now (so i can add em all back at any time)
+[2014-05-18T03:20:02.923Z] (lobby) macle was promoted to Voice by sparktrain.
