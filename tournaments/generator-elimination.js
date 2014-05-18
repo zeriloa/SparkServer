@@ -8,8 +8,32 @@ const nameMap = {
 	'3': "Triple",
 	'4': "Quadruple",
 	'5': "Quintuple",
-	'6': "Sextuple"
+	'6': "Sextuple",
+	'7': "Septuple",
+	'8': "Octuple",
+	'9': "Nonuple",
+	'10': "Decuple",
+	'11': "Undecuple",
+	'12': "Duodecuple",
+	'13': "Tredecuple",
+	'14': "Quattuordecuple", 
+	'15': "Quindecuple",
+	'16': "Sexdecuple",
+	'17': "Septendecuple", 
+	'18': "Octodecuple",
+	'19': "Novemdecuple",
+	'20': "Viguple",
+	'69': "LOL 69-TUPLE",
+	'100': "Centuple",		// a hundred, cuz lol
+	'1000': "Millidruple",		// a thousand, cuz LOL
+	'1000000': "Megadruple",	// a million, cuz why the fuck not
+	'1000000000': "Gigadruple",	// a billion
+	'1000000000000': "Teradruple"	// TRILLION
+	
 	// Feel free to add more
+	// I DID LOL
+	// https://answers.yahoo.com/question/index?qid=20090124102036AAQdeDj
+	// ^that link has every name  up to 100 if someone feels like editing it in
 };
 
 function fixSingleChildNode(parentNode) {
