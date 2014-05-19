@@ -1,3 +1,11 @@
 [2014-05-18T01:38:02.870Z] (lobby) sparktrain declared before people ask about rooms, they aren't deleted, I just commented them out for now (so i can add em all back at any time)
 [2014-05-18T02:24:00.093Z] (lobby) sparktrain declared before people ask about rooms, they aren't deleted, I just commented them out for now (so i can add em all back at any time)
 [2014-05-18T03:20:02.923Z] (lobby) macle was promoted to Voice by sparktrain.
+[2014-05-18T04:51:21.764Z] (lobby) sparktrain declared if ur in lcpl go to lcpl room 4 voice
+[2014-05-18T04:51:41.623Z] (lobby) sparktrain declared i RO'd all team captains
+[2014-05-18T05:20:34.684Z] (lobby) absfaggt was banned by sparktrain. (98.246.166.164)
+[2014-05-19T03:17:55.812Z] (lobby) sparktrain declared i is likely afk luls
+[2014-05-19T03:21:31.953Z] (lobby) sparktrain set modchat to +
+[2014-05-19T04:14:01.112Z] (lobby) Corporal Levi was warned by sparkbot. (Automated response: caps)
+[2014-05-19T04:14:32.573Z] (lobby) sparkbot was warned by sparktrain. (be nice)
+[2014-05-19T05:44:44.381Z] (lobby) BurgerCarbink was warned by sparkbot. (Automated response: caps)
