@@ -9,3 +9,5 @@
 [2014-05-19T04:14:01.112Z] (lobby) Corporal Levi was warned by sparkbot. (Automated response: caps)
 [2014-05-19T04:14:32.573Z] (lobby) sparkbot was warned by sparktrain. (be nice)
 [2014-05-19T05:44:44.381Z] (lobby) BurgerCarbink was warned by sparkbot. (Automated response: caps)
+[2014-05-19T06:00:54.327Z] (lobby) Kappaten was promoted to Driver by sparktrain.
+[2014-05-19T08:18:29.477Z] (lobby) sparktrain declared PENIS
