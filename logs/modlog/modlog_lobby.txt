@@ -11,3 +11,32 @@
 [2014-05-19T05:44:44.381Z] (lobby) BurgerCarbink was warned by sparkbot. (Automated response: caps)
 [2014-05-19T06:00:54.327Z] (lobby) Kappaten was promoted to Driver by sparktrain.
 [2014-05-19T08:18:29.477Z] (lobby) sparktrain declared PENIS
+[2014-05-19T18:23:57.869Z] (lobby) zeriloa set modchat to false
+[2014-05-20T02:44:11.118Z] (lobby) brosb4ho-ohs was promoted to Voice by sparktrain.
+[2014-05-20T02:44:13.678Z] (lobby) freddycakes was promoted to Voice by sparktrain.
+[2014-05-20T02:44:40.812Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes.
+[2014-05-20T02:45:24.144Z] (lobby) Guest 9 was unmuted by zeriloa.
+[2014-05-20T02:50:05.511Z] (lobby) brosb4ho-ohs was warned by sparkbot. (Automated response: caps)
+[2014-05-20T03:30:36.131Z] (lobby) brosb4ho-ohs was locked from talking by Champion Fizz.
+[2014-05-20T03:31:26.818Z] (lobby) brosb4ho-ohs was unlocked by zeriloa.
+[2014-05-20T03:45:05.482Z] (lobby) zeril was banned by Antgeezy. (207.157.229.2)
+[2014-05-20T03:45:13.808Z] (lobby) zeril was unbanned by Antgeezy.
+[2014-05-20T03:45:21.803Z] (lobby) zeril was unlocked by Antgeezy.
+[2014-05-20T03:52:19.970Z] (lobby) ERMAGERDSPERKTRERN was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-05-20T03:52:19.971Z] (lobby) ERMAGERDSPERKTRERN's alts were also muted: sparkbot
+[2014-05-20T03:52:56.340Z] (lobby) sparkbot was unmuted by sparktrain.
+[2014-05-20T03:52:59.692Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-20T04:03:30.631Z] (lobby) sparktrain was muted by sparktrain for 7 minutes. (booooooooooo)
+[2014-05-20T04:03:30.631Z] (lobby) sparktrain's alts were also muted: sparkbot
+[2014-05-20T04:04:08.744Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (im gonna communicate with u guys through muting ant)
+[2014-05-20T04:04:13.442Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-20T04:04:56.430Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (idk, my next main project is working on the custom stuff)
+[2014-05-20T04:04:58.462Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-20T04:05:07.759Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (like backgrounds and whatnot)
+[2014-05-20T04:05:10.733Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-20T04:05:23.853Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (coz in terms of functionality, it's pretty good so far)
+[2014-05-20T04:05:29.487Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-20T04:05:44.053Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (i agree)
+[2014-05-20T04:05:46.905Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-20T04:06:33.400Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-20T04:06:41.134Z] (lobby) sparkbot was unmuted by sparktrain.

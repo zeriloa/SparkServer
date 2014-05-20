@@ -1,5 +1,5 @@
 [
-{"title":"Lobby","isOfficial":true,"autojoin":false,"desc":"Welcome to SparkServer!","modchat":"+"},
+{"title":"Lobby","isOfficial":true,"autojoin":false,"desc":"Welcome to SparkServer!","modchat":false},
 {"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":false,"desc":"Official Chat for SparkServer Staff Members"},
-{"title":"LCPL","isOfficial":true,"autojoin":false,"auth":{"macle":"#","blarajan":"#","goddessbriyella":"#","pttp":"#","superwii64cube":"#","treecko":"#","raseri":"#","nicholaswolfwood":"#","sparktrain":"+","corporallevi":"+","deathxshinigami":"+","championfizz":"+","zeriloa":"+","kappaten":"+","nudisto":"+"},"modchat":"+"}
+{"title":"LCPL","isOfficial":true,"autojoin":false,"auth":{"macle":"#","blarajan":"#","goddessbriyella":"#","pttp":"#","superwii64cube":"#","treecko":"#","raseri":"#","nicholaswolfwood":"#","sparktrain":"+","corporallevi":"+","deathxshinigami":"+","championfizz":"+","zeriloa":"+","kappaten":"+","nudisto":"+","thefenderstory":"+"},"modchat":"+"}
 ]
