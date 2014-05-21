@@ -40,3 +40,41 @@
 [2014-05-20T04:05:46.905Z] (lobby) Antgeezy was unmuted by sparktrain.
 [2014-05-20T04:06:33.400Z] (lobby) sparktrain was unmuted by sparktrain.
 [2014-05-20T04:06:41.134Z] (lobby) sparkbot was unmuted by sparktrain.
+[2014-05-20T04:23:19.655Z] (lobby) Champion Fizz was warned by sparkbot. (Automated response: caps)
+[2014-05-20T04:26:04.168Z] (lobby) sparktrain declared it's funi cuz he's gay, haha, haha, haha
+[2014-05-20T04:56:53.163Z] (lobby) sparktrain was appointed Room Owner by sparktrain.
+[2014-05-20T04:57:04.257Z] (lobby) (sparktrain was demoted to Room Voice by sparktrain.)
+[2014-05-20T04:58:03.356Z] (lobby) (sparktrain was demoted to Room regular user by sparktrain.)
+[2014-05-20T05:00:56.265Z] (lobby) Fizz x Fender OTP was locked from talking by Champion Fizz.
+[2014-05-20T05:00:56.265Z] (lobby) Fizz x Fender OTP's alts were also locked: sparkbot
+[2014-05-20T05:01:38.738Z] (lobby) sparktrain was unlocked by sparktrain.
+[2014-05-20T05:01:43.130Z] (lobby) sparkbot was unlocked by sparktrain.
+[2014-05-20T05:02:09.639Z] (lobby) TheFenderStory was muted by Champion Fizz for 7 minutes.
+[2014-05-20T05:02:17.295Z] (lobby) TheFenderStory was unmuted by Champion Fizz.
+[2014-05-20T05:02:44.558Z] (lobby) TheFenderStory was muted by Champion Fizz for 60 minutes.
+[2014-05-20T05:02:50.796Z] (lobby) TheFenderStory was unmuted by sparktrain.
+[2014-05-20T05:03:06.977Z] (lobby) Champion Fizz was muted by zeriloa for 7 minutes.
+[2014-05-20T05:03:07.689Z] (lobby) TheFenderStory was promoted to Moderator by sparktrain.
+[2014-05-20T05:03:57.233Z] (lobby) Champion Fizz was unmuted by TheFenderStory.
+[2014-05-20T05:04:00.741Z] (lobby) (TheFenderStory was demoted to Voice by sparktrain.)
+[2014-05-20T05:05:44.909Z] (lobby) PUSSYSMASHERMIDAS was promoted to Voice by sparktrain.
+[2014-05-20T05:06:02.012Z] (lobby) PUSSYSMASHERMIDAS was promoted to Moderator by sparktrain.
+[2014-05-20T05:15:36.997Z] (lobby) (PUSSYSMASHERMIDAS was demoted to Driver by sparktrain.)
+[2014-05-20T05:15:37.910Z] (lobby) (PUSSYSMASHERMIDAS was demoted to Voice by sparktrain.)
+[2014-05-20T05:15:38.511Z] (lobby) (PUSSYSMASHERMIDAS was demoted to regular user by sparktrain.)
+[2014-05-20T05:48:02.776Z] (lobby) sparktrain declared @Antgeezy: Made my first funny today
+[2014-05-20T06:05:53.771Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (ur mean)
+[2014-05-20T06:06:00.834Z] (lobby) Antgeezy was unmuted by sparktrain.
+[2014-05-20T06:22:31.891Z] (lobby) Antgeezy was redirected to room fart-airing room by sparktrain.
+[2014-05-20T06:22:37.464Z] (lobby) BurgerCarbink was redirected to room fart-airing room by sparktrain.
+[2014-05-20T06:22:43.111Z] (lobby) Chromatic Art was redirected to room fart-airing room by sparktrain.
+[2014-05-21T02:45:48.279Z] (lobby) queenlucy was promoted to Driver by sparktrain.
+[2014-05-21T03:23:16.841Z] (lobby) Antgeezy was warned by sparktrain. (fgt)
+[2014-05-21T03:24:32.254Z] (lobby) zeriloa was promoted to Administrator by sparktrain.
+[2014-05-21T03:25:07.970Z] (lobby) Antgeezy was banned by zeriloa. (fgt spamer who no one likes) (98.114.229.111)
+[2014-05-21T03:25:30.175Z] (lobby) (Antgeezy was demoted to Driver by sparktrain.)
+[2014-05-21T03:25:36.407Z] (lobby) antgeezy was unbanned by sparktrain.
+[2014-05-21T03:25:41.582Z] (lobby) (zeriloa was demoted to Moderator by sparktrain.)
+[2014-05-21T03:25:47.599Z] (lobby) Antgeezy was unlocked by zeriloa.
+[2014-05-21T03:30:08.442Z] (lobby) Antgeezy was promoted to Moderator by sparktrain.
+[2014-05-21T03:30:54.669Z] (lobby) BurgerCarbink was redirected to a private room by sparktrain.
