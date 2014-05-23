@@ -151,7 +151,8 @@ exports.customavatars = {
     'stonerlinoone': 'stoner.png',
     'zeriloa': 'zeril.png',
     'deathxshinigami': 'dxs.png',
-    'krubby': 'krubby.png'
+    'krubby': 'krubby.png',
+    'sparkychild': 'sparky.png'
 };
 
 // appealurl - specify a URL containing information on how users can appeal
