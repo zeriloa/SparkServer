@@ -403,3 +403,15 @@
 [2014-05-25T03:57:07.976Z] (lobby) BurgerCarbink was warned by sparkbot. (Automated response: caps)
 [2014-05-25T04:01:18.646Z] (lobby) hamsta ass fgt was muted by Antgeezy for 7 minutes.
 [2014-05-25T04:01:27.205Z] (lobby) hamsta ass fgt was unmuted by Antgeezy.
+[2014-05-25T05:26:58.184Z] (lobby) BurgerCarbink was redirected to a private room by sparktrain.
+[2014-05-25T05:27:13.822Z] (lobby) Nightmare Vampire was warned by sparkbot. (Automated response: caps)
+[2014-05-25T05:27:22.570Z] (lobby) sparkbot was warned by sparktrain. (be nice)
+[2014-05-25T05:37:34.478Z] (lobby) (Nightmare Vampire was demoted to Voice by sparktrain.)
+[2014-05-25T05:42:49.257Z] (lobby) sparkbot was muted by sparktrain for 7 minutes.
+[2014-05-25T05:42:49.257Z] (lobby) sparkbot's alts were also muted: sparktrain
+[2014-05-25T05:42:58.497Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-05-25T05:43:08.909Z] (lobby) sparktrain was muted by zeriloa for 60 minutes. (EVASION)
+[2014-05-25T05:43:08.909Z] (lobby) sparktrain's alts were also muted: sparkbot
+[2014-05-25T05:43:13.517Z] (lobby) sparktrain was unmuted by zeriloa.
+[2014-05-25T05:43:20.253Z] (lobby) sparkbot was unmuted by sparktrain.
+[2014-05-25T06:09:58.058Z] (lobby) Nudisto was redirected to room Burger's Closet by sparktrain.
