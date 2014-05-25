@@ -153,7 +153,8 @@ exports.customavatars = {
     'deathxshinigami': 'dxs.png',
     'krubby': 'krubby.png',
     'sparkychild': 'sparky.png',
-    'vileman': 'vile.gif'
+    'vileman': 'vile.gif',
+    'kappaten': 'kappaten.gif'
 };
 
 // appealurl - specify a URL containing information on how users can appeal
