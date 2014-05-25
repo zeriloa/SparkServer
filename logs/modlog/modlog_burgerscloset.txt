@@ -1,0 +1,8 @@
+[2014-05-24T05:54:22.347Z] (burgerscloset) BurgerCarbink was appointed Room Owner by sparktrain.
+[2014-05-25T03:02:27.042Z] (burgerscloset) zeriloa globally declared user sparktrain is a horndog
+[2014-05-25T03:14:03.529Z] (burgerscloset) mrnoodleoctopus was muted by sparktrain for 7 minutes.
+[2014-05-25T03:17:21.643Z] (burgerscloset) mrnoodleoctopus was banned from room burgerscloset by BurgerCarbink.
+[2014-05-25T03:17:25.609Z] (burgerscloset) Ima FGT was banned from room burgerscloset by BurgerCarbink.
+[2014-05-25T03:19:22.747Z] (burgerscloset) Ima FGT was unbanned from room burgerscloset by BurgerCarbink.
+[2014-05-25T03:20:43.372Z] (burgerscloset) BurgerCarbink set modchat to #
+[2014-05-25T03:22:59.878Z] (burgerscloset) BurgerCarbink set modchat to @
