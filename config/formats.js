@@ -71,6 +71,14 @@ exports.Formats = [
                    banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'Scyther', 'Chansey', 'Meditite', 'Omanyte', 'Wynaut', 'Zigzagoon', 'OU', 'BL', 'UU', 'NU', 'Uber', 'Bayleef', 'Cascoon', 'Charmeleon', 'Clefairy', 'Combusken', 'Croconaw', 'Dragonair', 'Flaaffy',  'Gloom', 'Golbat', 'Graveler', 'Grovyle', 'Haunter', 'Ivysaur', 'Jigglypuff', 'Kakuna', 'Kirlia', 'Lairon', 'Lombre ', 'Loudred', 'Machoke', 'Marill', 'Marshstomp', 'Metang', 'Metapod', 'Nidorino', 'Nidorina', 'Nuzleaf', 'Pidgeotto', 'Pikachu', 'Poliwhirl', 'Pupitar', 'Quilava', 'Seadra', 'Sealeo', 'Shelgon', 'Silcoon', 'Skiploom', 'Vibrava', 'Vigoroth', 'Wartortle', 'Weepinbell']
                    },
                    {
+                   name: "LC STABmons",
+                   section: "XY LC - Other Metas",
+                   
+                   maxLevel: 5,
+                   ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
+                   banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite']
+                   },
+                   {
                    name: "LC Ubers",
                    section: "XY LC - Other Metas",
                    
