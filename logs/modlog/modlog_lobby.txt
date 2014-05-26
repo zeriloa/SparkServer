@@ -468,3 +468,54 @@
 [2014-05-26T04:52:55.398Z] (lobby) The Realest Livin was locked from talking by BurgerCarbink.
 [2014-05-26T04:52:55.398Z] (lobby) The Realest Livin's alts were also locked: Chromatic Art
 [2014-05-26T04:53:02.087Z] (lobby) The Realest Livin was unlocked by sparkychild.
+[2014-05-26T05:11:39.762Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-05-26T05:11:57.847Z] (lobby) zeriloa was unlocked by sparktrain.
+[2014-05-26T05:15:38.907Z] (lobby) Nozzle was promoted to Voice by zeriloa.
+[2014-05-26T05:51:26.105Z] (lobby) Calloflochie was promoted to Voice by zeriloa.
+[2014-05-26T05:56:41.510Z] (lobby) Kappaten declared Attract > tourney
+[2014-05-26T05:57:41.413Z] (lobby) zeriloa declared no one likes kappaten
+[2014-05-26T05:58:24.515Z] (lobby) CrushinDefeat was promoted to Voice by Kappaten.
+[2014-05-26T05:59:08.138Z] (lobby) zeriloa declared bye fgts have fun with admin quote LOL
+[2014-05-26T06:02:29.628Z] (lobby) sparktrain declared all people not in tournament are suk lol
+[2014-05-26T06:04:59.966Z] (lobby) sparktrain declared https://www.youtube.com/watch?v=R_M3Osgs8lw
+[2014-05-26T06:36:43.645Z] (lobby) Kappaten declared [01:36:25] @Nudisto: fucking a goat> anything
+[2014-05-26T06:42:04.782Z] (lobby) sparktrain declared RIP EleSkit core
+[2014-05-26T06:42:40.147Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-05-26T06:42:45.500Z] (lobby) Kappaten was redirected to a private room by sparktrain.
+[2014-05-26T06:59:25.140Z] (lobby) Kappaten declared [01:58:53] @Antgeezy: im actually a women
+[2014-05-26T07:14:20.441Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:22.502Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:23.399Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:24.000Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:24.601Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:25.201Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:25.801Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:26.402Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:27.003Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:27.604Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:28.205Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:28.808Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:29.409Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:30.011Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:30.613Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:31.214Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:31.816Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:32.417Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:33.018Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:33.620Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:34.221Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:34.823Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:35.424Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:36.025Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:36.627Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:37.228Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:37.829Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:38.431Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:39.032Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:39.633Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:40.234Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:40.835Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:41.437Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:42.039Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:42.640Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
+[2014-05-26T07:14:43.241Z] (lobby) sparktrain declared [03:14:10] @Antgeezy: nigga same thing
