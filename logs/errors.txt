@@ -1,1 +1,22 @@
 
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/Users/Lukas/Desktop/SparkServer/team-validator.js:195:9)
+    at process.<anonymous> (/Users/Lukas/Desktop/SparkServer/team-validator.js:171:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/Users/Lukas/Desktop/SparkServer/team-validator.js:195:9)
+    at process.<anonymous> (/Users/Lukas/Desktop/SparkServer/team-validator.js:171:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/Users/Lukas/Desktop/SparkServer/team-validator.js:195:9)
+    at process.<anonymous> (/Users/Lukas/Desktop/SparkServer/team-validator.js:171:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)

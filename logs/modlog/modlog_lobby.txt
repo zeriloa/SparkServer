@@ -415,3 +415,56 @@
 [2014-05-25T05:43:13.517Z] (lobby) sparktrain was unmuted by zeriloa.
 [2014-05-25T05:43:20.253Z] (lobby) sparkbot was unmuted by sparktrain.
 [2014-05-25T06:09:58.058Z] (lobby) Nudisto was redirected to room Burger's Closet by sparktrain.
+[2014-05-25T19:04:03.105Z] (lobby) HeDancesWithSwords was promoted to Voice by zeriloa.
+[2014-05-25T19:11:51.580Z] (lobby) HeDancesWithSwords was redirected to a private room by zeriloa.
+[2014-05-25T23:21:59.356Z] (lobby) Chromatic Art was warned by Nudisto.
+[2014-05-25T23:23:02.333Z] (lobby) Chromatic Art was redirected to a private room by zeriloa.
+[2014-05-25T23:23:08.394Z] (lobby) Nudisto was redirected to a private room by zeriloa.
+[2014-05-25T23:29:13.474Z] (lobby) Chromatic Art was warned by Nudisto. (i know)
+[2014-05-25T23:30:50.203Z] (lobby) Chromatic Art was warned by Nudisto.
+[2014-05-25T23:31:03.578Z] (lobby) Nudisto was warned by zeriloa. (stop)
+[2014-05-26T02:08:18.025Z] (lobby) zeriloa was redirected to a private room by zeriloa.
+[2014-05-26T02:29:29.264Z] (lobby) Corporal Levi was redirected to room Burger's Closet by sparkychild.
+[2014-05-26T02:50:32.337Z] (lobby) Corporal Levi was locked from talking by DeathxShinigami.
+[2014-05-26T02:51:27.326Z] (lobby) Corporal Levi was unlocked by zeriloa.
+[2014-05-26T02:58:18.198Z] (lobby) sparkychild was redirected to a private room by zeriloa.
+[2014-05-26T03:01:36.240Z] (lobby) brosb4ho-ohs was muted by zeriloa for 7 minutes. (annoying)
+[2014-05-26T03:01:43.460Z] (lobby) brosb4ho-ohs was locked from talking by sparkychild.
+[2014-05-26T03:01:59.855Z] (lobby) brosb4ho-ohs was unlocked by sparkychild.
+[2014-05-26T03:02:05.809Z] (lobby) brosb4ho-ohs was unmuted by Antgeezy.
+[2014-05-26T04:25:25.889Z] (lobby) sparktrain declared [00:25:03] @DeathxShinigami: (Private to ~sparktrain) You suck at Cookie Run
+[2014-05-26T04:37:14.333Z] (lobby) Nīne was muted by Antgeezy for 7 minutes.
+[2014-05-26T04:37:14.333Z] (lobby) Nīne's alts were also muted: Nineage
+[2014-05-26T04:37:18.293Z] (lobby) Nīne was unmuted by Antgeezy.
+[2014-05-26T04:37:43.928Z] (lobby) Nineage was unmuted by zeriloa.
+[2014-05-26T04:37:51.309Z] (lobby) Antgeezy was muted by Nineage for 7 minutes.
+[2014-05-26T04:37:57.455Z] (lobby) Antgeezy was unmuted by Nineage.
+[2014-05-26T04:38:23.866Z] (lobby) eren was muted by Antgeezy for 7 minutes.
+[2014-05-26T04:38:23.866Z] (lobby) eren's alts were also muted: Antgeezy
+[2014-05-26T04:38:34.832Z] (lobby) zeriloa was muted by zeriloa for 60 minutes.
+[2014-05-26T04:38:37.381Z] (lobby) Nightmare Vampire was muted by BurgerCarbink for 7 minutes. (ARE YOU THERE)
+[2014-05-26T04:38:45.369Z] (lobby) Nightmare Vampire was unmuted by BurgerCarbink.
+[2014-05-26T04:38:47.179Z] (lobby) eren was unmuted by Antgeezy.
+[2014-05-26T04:39:04.766Z] (lobby) Antgeezy was unmuted by zeriloa.
+[2014-05-26T04:39:05.621Z] (lobby) Antgeezy was locked from talking by sparktrain.
+[2014-05-26T04:39:05.622Z] (lobby) Antgeezy's alts were also locked: eren
+[2014-05-26T04:39:11.483Z] (lobby) Antgeezy was unlocked by sparkychild.
+[2014-05-26T04:39:14.508Z] (lobby) eren was unlocked by sparkychild.
+[2014-05-26T04:39:38.514Z] (lobby) Chromatic Art was muted by Antgeezy for 7 minutes.
+[2014-05-26T04:39:39.682Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-05-26T04:39:47.652Z] (lobby) Chromatic Art was unmuted by Antgeezy.
+[2014-05-26T04:39:53.579Z] (lobby) zeriloa was unlocked by Antgeezy.
+[2014-05-26T04:40:19.680Z] (lobby) zeriloa was locked from talking by zeriloa. (i did it to myself lol)
+[2014-05-26T04:40:37.022Z] (lobby) zeriloa was unlocked by Antgeezy.
+[2014-05-26T04:40:45.793Z] (lobby) zeriloa was unmuted by zeriloa.
+[2014-05-26T04:46:58.123Z] (lobby) Locked Swag was locked from talking by sparkychild.
+[2014-05-26T04:46:58.124Z] (lobby) Locked Swag's alts were also locked: Chromatic Art
+[2014-05-26T04:47:05.494Z] (lobby) Locked Swag was unlocked by sparkychild.
+[2014-05-26T04:47:12.253Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-05-26T04:48:10.288Z] (lobby) zeriloa was unlocked by sparkychild.
+[2014-05-26T04:49:07.239Z] (lobby) zeriloa was locked from talking by zeriloa. (WIFEBEATER)
+[2014-05-26T04:49:43.038Z] (lobby) The Realest Livin was redirected to a private room by zeriloa.
+[2014-05-26T04:50:04.908Z] (lobby) zeriloa was unlocked by sparkychild.
+[2014-05-26T04:52:55.398Z] (lobby) The Realest Livin was locked from talking by BurgerCarbink.
+[2014-05-26T04:52:55.398Z] (lobby) The Realest Livin's alts were also locked: Chromatic Art
+[2014-05-26T04:53:02.087Z] (lobby) The Realest Livin was unlocked by sparkychild.

@@ -120,15 +120,6 @@ exports.Formats = [
 		// Basically, a combo of the two metas :]
                    },
                    {
-                   name: "LC STABmons",
-                   section: "XY LC - Other Metas",
-                   mod: 'stabmons',
-                   
-                   maxLevel: 5,
-                   ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
-                   banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite']
-                   },
-                   {
                    name: "LC Sky Battles (beta)",
                    section: "XY LC - Other Metas",
                    
