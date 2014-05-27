@@ -642,7 +642,7 @@ var commands = exports.commands = {
 			"% <b>Driver</b> - The above, and they can mute. Global % can also lock users and check for alts<br />" +
 			"@ <b>Moderator</b> - The above, and they can ban users<br />" +
 			"&amp; <b>Leader</b> - The above, and they can promote to moderator and force ties<br />" +
-			"~ <b>Administrator</b> - They can do anything, like unzip Jasmine or frollick inside Bri's Spicy She-Weiner<br />" +
+			"~ <b>Administrator</b> - They can do anything, like BE HAPPY AT THE SPEED OF LIGHT ᕕ( ᐛ )ᕗ<br />" +
 			"# <b>Room Owner</b> - They are administrators of the room and can almost totally control it"
 		);
 	},
