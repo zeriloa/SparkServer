@@ -155,7 +155,8 @@ exports.customavatars = {
     'sparkychild': 'sparky.png',
     'vileman': 'vile.gif',
     'kappaten': 'kappaten.gif',
-    'nightmarevampire': 'nightmare.gif'
+    'nightmarevampire': 'nightmare.gif',
+    'expulso': 'cobalion.gif',
 };
 
 // appealurl - specify a URL containing information on how users can appeal

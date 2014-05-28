@@ -619,3 +619,26 @@
 [2014-05-27T07:27:53.022Z] (lobby) sparkbot was unmuted by Kappaten.
 [2014-05-27T07:47:01.463Z] (lobby) (Spark's Anal Beads was forced to choose a new name by sparktrain: lol)
 [2014-05-27T07:47:43.535Z] (lobby) (Spark's Vibrator was forced to choose a new name by sparktrain: try again)
+[2014-05-27T14:39:24.115Z] (lobby) Caledrith was banned by zeriloa. (70.58.34.17)
+[2014-05-27T19:09:29.339Z] (lobby) Violett was promoted to Voice by sparktrain.
+[2014-05-27T19:50:20.623Z] (lobby) PumpHead was promoted to Voice by sparktrain.
+[2014-05-27T19:50:21.224Z] (lobby) QuoteCS was promoted to Voice by sparktrain.
+[2014-05-27T19:50:21.825Z] (lobby) Aladyyn was promoted to Voice by sparktrain.
+[2014-05-27T19:50:49.581Z] (lobby) DeathxShinigami set modchat to +
+[2014-05-27T19:51:10.801Z] (lobby) sparktrain set modchat to false
+[2014-05-27T19:53:44.165Z] (lobby) Caledrith was unlocked by Champion Fizz.
+[2014-05-27T20:36:42.662Z] (lobby) zeriloa declared who invited this fgt
+[2014-05-27T20:37:10.726Z] (lobby) Expulso was promoted to Voice by sparktrain.
+[2014-05-27T20:41:57.145Z] (lobby) Chromatic Art was promoted to Administrator by zeriloa.
+[2014-05-27T20:43:46.054Z] (lobby) (Chromatic Art was demoted to Voice by sparktrain.)
+[2014-05-27T20:47:16.249Z] (lobby) Expulso was redirected to a private room by sparktrain.
+[2014-05-27T21:15:46.618Z] (lobby) Champion Fizz was warned by sparkbot. (Automated response: caps)
+[2014-05-27T21:33:22.328Z] (lobby) mrnoodleoctopus was warned by zeriloa. (/me cries)
+[2014-05-27T21:38:16.382Z] (lobby) (Champion elde$ was forced to choose a new name by DeathxShinigami)
+[2014-05-27T21:38:50.478Z] (lobby) champion elde$ was locked from talking by Champion Fizz.
+[2014-05-27T21:39:14.909Z] (lobby) champion elde$ was unlocked by zeriloa.
+[2014-05-27T21:39:24.739Z] (lobby) Amp Pharaohs was warned by Champion Fizz. (bad pun)
+[2014-05-27T22:19:39.977Z] (lobby) DENVER BRONCOS was warned by sparkbot. (Automated response: caps)
+[2014-05-27T22:19:46.728Z] (lobby) DENVER BRONCOS was banned by zeriloa. (12.226.125.162)
+[2014-05-27T23:43:31.956Z] (lobby) brosb4ho-ohs was warned by sparkbot. (Automated response: caps)
+[2014-05-27T23:50:06.251Z] (lobby) Nineage, guest37 were unlocked by sparktrain.

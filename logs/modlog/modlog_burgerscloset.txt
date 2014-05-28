@@ -8,3 +8,4 @@
 [2014-05-25T03:22:59.878Z] (burgerscloset) BurgerCarbink set modchat to @
 [2014-05-25T06:20:55.142Z] (burgerscloset) BurgerCarbink set modchat to autoconfirmed
 [2014-05-25T19:09:31.116Z] (burgerscloset) HeDancesWithSwords was promoted to Room Moderator by BurgerCarbink.
+[2014-05-27T17:24:14.956Z] (burgerscloset) Ybel was muted by sparkbot for 7 minutes. (Automated response: flooding)

@@ -2,3 +2,4 @@
 [2014-05-22T04:59:33.163Z] (battle-nubeta-903) sparktrain forced a tie.
 [2014-05-22T05:05:06.761Z] (battle-nubeta-904) sparktrain declared inb4 gay crunch durant
 [2014-05-27T05:28:47.686Z] (battle-lcstabmons-1238) Nineage forced a tie.
+[2014-05-27T23:59:28.514Z] (battle-lcstabmons-1293) Kappaten set modchat to +
