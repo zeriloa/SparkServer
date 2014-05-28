@@ -642,3 +642,23 @@
 [2014-05-27T22:19:46.728Z] (lobby) DENVER BRONCOS was banned by zeriloa. (12.226.125.162)
 [2014-05-27T23:43:31.956Z] (lobby) brosb4ho-ohs was warned by sparkbot. (Automated response: caps)
 [2014-05-27T23:50:06.251Z] (lobby) Nineage, guest37 were unlocked by sparktrain.
+[2014-05-28T00:22:28.897Z] (lobby) GlassGlaceon was promoted to Voice by sparktrain.
+[2014-05-28T00:23:12.008Z] (lobby) chromaticart was promoted to Administrator by zeriloa.
+[2014-05-28T00:23:24.124Z] (lobby) (chromaticart was demoted to Leader by zeriloa.)
+[2014-05-28T00:23:29.744Z] (lobby) (chromaticart was demoted to Voice by zeriloa.)
+[2014-05-28T00:23:33.712Z] (lobby) (chromaticart was demoted to regular user by zeriloa.)
+[2014-05-28T00:26:58.818Z] (lobby) Chromatic Art was promoted to Voice by sparktrain.
+[2014-05-28T00:31:20.042Z] (lobby) (Antgeezy - Away was forced to choose a new name by sparktrain: pls)
+[2014-05-28T00:35:57.755Z] (lobby) sparktrain - away was promoted to Voice by sparktrain.
+[2014-05-28T00:36:13.816Z] (lobby) (sparktrain - away was demoted to regular user by sparktrain.)
+[2014-05-28T00:40:25.473Z] (lobby) (A was forced to choose a new name by sparktrain)
+[2014-05-28T00:40:38.488Z] (lobby) Chromatic Art was promoted to Administrator by zeriloa.
+[2014-05-28T00:40:44.186Z] (lobby) (Chromatic Art was demoted to Voice by sparktrain.)
+[2014-05-28T00:41:31.327Z] (lobby) (Kappaten - Away was forced to choose a new name by zeriloa: lucy stop)
+[2014-05-28T00:41:50.987Z] (lobby) Caledrith was banned by DeathxShinigami. (not here) (71.213.0.102)
+[2014-05-28T00:42:56.481Z] (lobby) zeriloa was redirected to a private room by zeriloa.
+[2014-05-28T00:44:21.062Z] (lobby) Nineae, guest14 were unlocked by DeathxShinigami.
+[2014-05-28T00:47:57.011Z] (lobby) Flyin'Mankey was warned by sparktrain. (none of that dumb shit)
+[2014-05-28T00:48:07.618Z] (lobby) zeriloa was warned by zeriloa. (none of that dumb shit)
+[2014-05-28T00:52:23.331Z] (lobby) caledrith was unbanned by Nineage.
+[2014-05-28T00:52:53.780Z] (lobby) Caledrith was unlocked by zeriloa - Away.
