@@ -838,3 +838,84 @@
 [2014-05-29T01:32:10.953Z] (lobby) sparktrain declared >Timburr can just switch in
 [2014-05-29T01:42:50.482Z] (lobby) sparkcheese was promoted to Administrator by sparktrain.
 [2014-05-29T01:48:14.237Z] (lobby) zeriloa declared jon
+[2014-05-29T01:57:06.168Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:08.504Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:10.167Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:10.829Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:11.805Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:17.845Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:19.488Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:20.504Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:21.191Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:21.799Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:22.928Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:23.280Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:24.392Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:24.992Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:25.593Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:26.194Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:26.796Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:27.398Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:28.000Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:28.602Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:29.203Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:29.804Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:30.407Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:31.009Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:31.609Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:32.212Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:32.813Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T01:57:33.414Z] (lobby) sparktrain declared I WILL DIG LULS
+[2014-05-29T02:28:10.962Z] (lobby) zeriloa declared queenlucy: im also kinda dating zeril
+[2014-05-29T02:38:28.104Z] (lobby) Antgeezy was muted by zeriloa for 7 minutes.
+[2014-05-29T02:38:45.599Z] (lobby) Antgeezy was unmuted by zeriloa.
+[2014-05-29T02:40:53.225Z] (lobby) master1000 was promoted to Voice by zeriloa.
+[2014-05-29T02:41:11.026Z] (lobby) master1000 was promoted to Administrator by zeriloa.
+[2014-05-29T02:41:41.770Z] (lobby) (master1000 was demoted to Leader by zeriloa.)
+[2014-05-29T02:41:46.748Z] (lobby) (master1000 was demoted to Voice by zeriloa.)
+[2014-05-29T02:41:50.369Z] (lobby) (master1000 was demoted to regular user by zeriloa.)
+[2014-05-29T02:48:59.132Z] (lobby) Corporal Levi was warned by zeriloa. (fgt)
+[2014-05-29T02:49:02.818Z] (lobby) Antgeezy was warned by zeriloa. (fgt)
+[2014-05-29T02:49:53.592Z] (lobby) Corporal Levi was warned by zeriloa. (seriously stop)
+[2014-05-29T02:58:37.757Z] (lobby) zeriloa declared queenlucy: im kinda dating zeril
+[2014-05-29T03:33:43.712Z] (lobby) zeriloa kicked zeriloa from lobby
+[2014-05-29T03:39:35.989Z] (lobby) zeriloa kicked zeriloa from lobby
+[2014-05-29T03:58:36.097Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-05-29T03:58:50.765Z] (lobby) zeriloa was unlocked by zeriloa.
+[2014-05-29T04:34:33.629Z] (lobby) Arjunb was warned by sparkbot. (Automated response: caps)
+[2014-05-29T04:38:57.085Z] (lobby) BurgerCarbink was redirected to a private room by zeriloa.
+[2014-05-29T04:41:18.398Z] (lobby) zeriloa declared queenlucy: im also kinda dating zeril
+[2014-05-29T04:43:49.430Z] (lobby) wheatuss was warned by Nudisto. (too many geezys at the same time)
+[2014-05-29T04:47:32.278Z] (lobby) sparktrain declared i'm zeriloa - 33% (2)
+[2014-05-29T04:50:28.942Z] (lobby) sparktrain declared fender confirmed hot gril
+[2014-05-29T04:56:32.022Z] (lobby) (hot oven was forced to choose a new name by DeathxShinigami)
+[2014-05-29T04:57:48.808Z] (lobby) (DeathXOven was forced to choose a new name by DeathxShinigami)
+[2014-05-29T04:59:23.201Z] (lobby) (deathxsalami was forced to choose a new name by DeathxShinigami)
+[2014-05-29T05:03:04.273Z] (lobby) sparktrain declared dxs dirty haxxor
+[2014-05-29T05:20:25.191Z] (lobby) is dewgong gud? was promoted to Administrator by zeriloa.
+[2014-05-29T05:35:01.400Z] (lobby) sparktrain was warned by zeriloa. (starmastering)
+[2014-05-29T05:49:07.295Z] (lobby) Champion Fizz was banned by zeriloa. (70.58.247.110)
+[2014-05-29T05:49:26.453Z] (lobby) Champion Fizz was unbanned by sparktrain.
+[2014-05-29T05:49:34.525Z] (lobby) zeriloa was warned by sparktrain. (learn to control ur emotions bitch)
+[2014-05-29T05:50:34.846Z] (lobby) Champion Fizz was unlocked by zeriloa.
+[2014-05-29T05:50:50.777Z] (lobby) Champion Fizz was banned by zeriloa. (70.58.247.110)
+[2014-05-29T05:50:57.273Z] (lobby) Champion fizz was unbanned by zeriloa.
+[2014-05-29T05:51:05.415Z] (lobby) Champion Fizz was unlocked by zeriloa.
+[2014-05-29T05:54:14.987Z] (lobby) zeriloa kicked Champion Fizz from lobby
+[2014-05-29T05:57:49.231Z] (lobby) zeriloa kicked zeriloa from lobby
+[2014-05-29T05:59:43.776Z] (lobby) zeriloa kicked Champion Fizz from lobby
+[2014-05-29T07:01:09.749Z] (lobby) Antgeezy was banned by sparktrain. (is seel gud) (98.114.229.111)
+[2014-05-29T07:01:14.950Z] (lobby) antgeezy was unbanned by sparktrain.
+[2014-05-29T07:01:28.257Z] (lobby) Antgeezy was unlocked by sparktrain.
+[2014-05-29T07:04:57.881Z] (lobby) Antgeezy was redirected to room Seel Viability Discussion Room by sparktrain.
+[2014-05-29T07:19:10.993Z] (lobby) Antgeezy was banned by sparktrain. (good night!) (98.114.229.111)
+[2014-05-29T07:19:38.749Z] (lobby) antgeezy was unbanned by sparktrain.
+[2014-05-29T07:20:47.898Z] (lobby) Antgeezy was banned by sparktrain. (go to bed) (98.114.229.111)
+[2014-05-29T07:20:52.745Z] (lobby) antgeezy was unbanned by sparktrain.
+[2014-05-29T07:22:34.969Z] (lobby) Violett was promoted to Driver by sparktrain.
+[2014-05-29T07:43:06.507Z] (lobby) (antgeezyaway was demoted to Voice by sparktrain.)
+[2014-05-29T07:43:07.433Z] (lobby) (antgeezyaway was demoted to regular user by sparktrain.)
+[2014-05-29T07:44:40.806Z] (lobby) Antgeezy was unlocked by DeathxShinigami.
+[2014-05-29T07:48:18.802Z] (lobby) (isdewgonggud was demoted to Leader by sparktrain.)
+[2014-05-29T07:48:25.765Z] (lobby) (isdewgonggud was demoted to Voice by sparktrain.)
+[2014-05-29T07:48:29.317Z] (lobby) (isdewgonggud was demoted to regular user by sparktrain.)
