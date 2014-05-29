@@ -919,3 +919,10 @@
 [2014-05-29T07:48:18.802Z] (lobby) (isdewgonggud was demoted to Leader by sparktrain.)
 [2014-05-29T07:48:25.765Z] (lobby) (isdewgonggud was demoted to Voice by sparktrain.)
 [2014-05-29T07:48:29.317Z] (lobby) (isdewgonggud was demoted to regular user by sparktrain.)
+[2014-05-29T08:16:56.009Z] (lobby) nudisto was promoted to Moderator by sparktrain.
+[2014-05-29T10:27:13.944Z] (lobby) Chromatic Art was warned by sparkbot. (Automated response: caps)
+[2014-05-29T10:27:36.978Z] (lobby) Chromatic Art was muted by sparkbot for 7 minutes. (Automated response: caps)
+[2014-05-29T15:03:46.045Z] (lobby) Expulso was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-05-29T16:03:56.225Z] (lobby) Champion Fizz was banned by zeriloa. (70.58.247.110)
+[2014-05-29T17:22:58.797Z] (lobby) Champion Fizz was unbanned by DeathxShinigami.
+[2014-05-29T17:23:04.942Z] (lobby) Champion Fizz was unlocked by DeathxShinigami.
