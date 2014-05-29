@@ -719,3 +719,122 @@
 [2014-05-28T03:09:41.462Z] (lobby) MayIspamname, flyinmankey were unlocked by Antgeezy.
 [2014-05-28T03:09:48.089Z] (lobby) MayIspamname was banned from room lobby by sparktrain. (enough is enough)
 [2014-05-28T03:10:33.543Z] (lobby) (Flyin'Mankey was demoted to regular user by sparktrain.)
+[2014-05-28T03:19:29.751Z] (lobby) zeriloa declared [20:21] @QuoteCS: fap
+[2014-05-28T03:19:30.863Z] (lobby) zeriloa declared [20:21] @QuoteCS: fap
+[2014-05-28T03:19:32.029Z] (lobby) zeriloa declared [20:21] @QuoteCS: fap
+[2014-05-28T03:19:32.631Z] (lobby) zeriloa declared [20:21] @QuoteCS: fap
+[2014-05-28T03:19:33.234Z] (lobby) zeriloa declared [20:21] @QuoteCS: fap
+[2014-05-28T03:19:33.834Z] (lobby) zeriloa declared [20:21] @QuoteCS: fap
+[2014-05-28T03:20:57.051Z] (lobby) sparktrain declared [23:18:17] #macle: missy is gay as fuck
+[2014-05-28T03:21:08.676Z] (lobby) BurgerCarbink was redirected to a private room by zeriloa.
+[2014-05-28T03:23:27.677Z] (lobby) Bridgette B was promoted to Administrator by sparktrain.
+[2014-05-28T03:23:32.870Z] (lobby) (Bridgette B was demoted to Voice by sparktrain.)
+[2014-05-28T03:23:34.950Z] (lobby) (Bridgette B was demoted to regular user by sparktrain.)
+[2014-05-28T03:24:15.165Z] (lobby) Antgeezy was promoted to Administrator by zeriloa.
+[2014-05-28T03:24:26.074Z] (lobby) (Antgeezy was demoted to Moderator by sparktrain.)
+[2014-05-28T03:26:22.597Z] (lobby) sparkbot was promoted to Administrator by zeriloa.
+[2014-05-28T03:26:40.658Z] (lobby) (sparkbot was demoted to Moderator by zeriloa.)
+[2014-05-28T03:27:17.527Z] (lobby) GlassGlaceon was promoted to Administrator by sparktrain.
+[2014-05-28T03:27:21.006Z] (lobby) Antgeezy was banned by GlassGlaceon. (98.114.229.111)
+[2014-05-28T03:27:22.940Z] (lobby) (GlassGlaceon was demoted to Voice by sparktrain.)
+[2014-05-28T03:27:32.713Z] (lobby) antgeezy was unbanned by sparktrain.
+[2014-05-28T03:27:36.757Z] (lobby) Antgeezy was unlocked by zeriloa.
+[2014-05-28T03:27:46.196Z] (lobby) kinglucy was promoted to Administrator by zeriloa.
+[2014-05-28T03:28:24.172Z] (lobby) (kinglucy was demoted to Voice by zeriloa.)
+[2014-05-28T03:28:27.055Z] (lobby) (kinglucy was demoted to regular user by zeriloa.)
+[2014-05-28T03:38:41.460Z] (lobby) zeriloa declared NUSHITFUCK
+[2014-05-28T03:41:42.161Z] (lobby) zeriloa declared kappa wants sum fuk
+[2014-05-28T03:51:21.786Z] (lobby) zeriloa declared kappaten's gf is a cleffa 
+[2014-05-28T03:51:57.791Z] (lobby) Nudi-Away(fapping) was promoted to Administrator by zeriloa.
+[2014-05-28T03:52:26.623Z] (lobby) Antgeezy was redirected to a private room by Nudi-Away(fapping).
+[2014-05-28T03:52:32.875Z] (lobby) (Nudi-Away(fapping) was demoted to Leader by sparktrain.)
+[2014-05-28T03:52:41.201Z] (lobby) (Nudi-Away(fapping) was demoted to Voice by sparktrain.)
+[2014-05-28T03:52:43.041Z] (lobby) (Nudi-Away(fapping) was demoted to regular user by sparktrain.)
+[2014-05-28T03:54:39.623Z] (lobby) Nineage, guest71 were unlocked by sparktrain.
+[2014-05-28T03:54:57.442Z] (lobby) zeriloa - Away was locked from talking by zeriloa - Away.
+[2014-05-28T03:55:10.671Z] (lobby) zeriloa - Away was unlocked by zeriloa - Away.
+[2014-05-28T03:57:03.396Z] (lobby) TheFenderStory was redirected to a private room by zeriloa - Away.
+[2014-05-28T03:57:42.387Z] (lobby) zeriloa - Away declared is grapefruit hot gril
+[2014-05-28T03:59:10.016Z] (lobby) zeriloa kicked zeriloa from lobby
+[2014-05-28T04:13:02.790Z] (lobby) Champion Fizz was redirected to a private room by zeriloa.
+[2014-05-28T04:13:50.524Z] (lobby) sparktrain was redirected to a private room by sparktrain.
+[2014-05-28T04:14:55.476Z] (lobby) zeriloa was redirected to a private room by zeriloa.
+[2014-05-28T04:19:19.907Z] (lobby) skarmory21 was muted by zeriloa for 7 minutes.
+[2014-05-28T04:19:19.907Z] (lobby) skarmory21's alts were also muted: Mr Feathers
+[2014-05-28T04:20:14.240Z] (lobby) Mr Feathers was unmuted by zeriloa.
+[2014-05-28T04:20:21.006Z] (lobby) skarmory21 was unmuted by zeriloa.
+[2014-05-28T04:49:24.968Z] (lobby) (Despairr was forced to choose a new name by DeathxShinigami)
+[2014-05-28T04:53:13.815Z] (lobby) pkmnmaster69 was redirected to a private room by sparktrain.
+[2014-05-28T04:55:54.142Z] (lobby) (DeathxShinigami was forced to choose a new name by sparktrain)
+[2014-05-28T04:56:11.958Z] (lobby) (depressedpkmn69 was forced to choose a new name by sparktrain)
+[2014-05-28T05:08:31.640Z] (lobby) pkmnmaster69 was muted by Champion Fizz for 7 minutes. (stupid)
+[2014-05-28T05:08:31.641Z] (lobby) pkmnmaster69's alts were also muted: Mr Feathers, skarmory21, Despairrr
+[2014-05-28T05:08:42.973Z] (lobby) pkmnmaster69 was unmuted by zeriloa.
+[2014-05-28T05:10:36.980Z] (lobby) pkmnmaster69 was locked from talking by Champion Fizz.
+[2014-05-28T05:10:36.981Z] (lobby) pkmnmaster69's alts were also locked: Mr Feathers, skarmory21, Despairrr
+[2014-05-28T05:11:00.558Z] (lobby) pkmnmaster69 was unlocked by sparktrain.
+[2014-05-28T05:18:34.550Z] (lobby) Nineage declared COME WATCh CALE LOSE MINITOUR
+[2014-05-28T05:20:25.565Z] (lobby) Nozzle was warned by sparkbot. (Automated response: caps)
+[2014-05-28T05:37:48.154Z] (lobby) (DeathxShinigami was demoted to Voice by sparktrain.)
+[2014-05-28T05:37:59.918Z] (lobby) DeathxShinigami was promoted to Moderator by sparktrain.
+[2014-05-28T05:38:07.736Z] (lobby) REV Figgy was promoted to Voice by sparktrain.
+[2014-05-28T05:48:09.202Z] (lobby) Antgeezy was warned by sparktrain. (fgt)
+[2014-05-28T05:48:28.868Z] (lobby) Nozzle was warned by sparkbot. (Automated response: caps)
+[2014-05-28T19:47:36.808Z] (lobby) Champion Fizz was muted by Antgeezy for 60 minutes.
+[2014-05-28T20:25:54.931Z] (lobby) Chromatic Art was locked from talking by Champion Fizz. (im holding you hostage until im unmuted)
+[2014-05-28T20:26:10.795Z] (lobby) stoner linoone was locked from talking by Champion Fizz. (same with you)
+[2014-05-28T20:26:39.454Z] (lobby) Chromatic Art was unlocked by Antgeezy.
+[2014-05-28T20:26:44.146Z] (lobby) stoner linoone was unlocked by Antgeezy.
+[2014-05-28T20:26:47.321Z] (lobby) Chromatic Art was locked from talking by Champion Fizz.
+[2014-05-28T20:26:49.581Z] (lobby) stoner linoone was locked from talking by Champion Fizz.
+[2014-05-28T20:27:08.582Z] (lobby) Chromatic Art was unlocked by Antgeezy.
+[2014-05-28T20:27:13.022Z] (lobby) stoner linoone was unlocked by Antgeezy.
+[2014-05-28T20:27:15.832Z] (lobby) Chromatic Art was locked from talking by Champion Fizz. (unmute me fgt)
+[2014-05-28T20:27:31.425Z] (lobby) stoner linoone was locked from talking by Champion Fizz. (this is my means of talking)
+[2014-05-28T20:27:35.683Z] (lobby) Champion Fizz was unmuted by Antgeezy.
+[2014-05-28T20:27:39.555Z] (lobby) stoner linoone was unlocked by Antgeezy.
+[2014-05-28T20:27:43.127Z] (lobby) Chromatic Art was unlocked by Antgeezy.
+[2014-05-28T20:35:42.989Z] (lobby) Amp Pharaohs was warned by Champion Fizz. (you have bad puns so read this page)
+[2014-05-28T20:37:53.776Z] (lobby) Champion Fizz was warned by Antgeezy.
+[2014-05-28T20:46:09.358Z] (lobby) stoner linoone was warned by sparkychild.
+[2014-05-28T20:47:13.163Z] (lobby) stoner linoone was warned by sparkychild. (respect people please :D)
+[2014-05-28T20:48:05.487Z] (lobby) stoner linoone was muted by sparkychild for 7 minutes. (no)
+[2014-05-28T20:48:52.799Z] (lobby) stoner linoone was locked from talking by sparkychild. (pm spamm)
+[2014-05-28T20:50:24.653Z] (lobby) stoner linoone was unlocked by Antgeezy.
+[2014-05-28T20:51:23.626Z] (lobby) stoner linoone was unmuted by sparkychild.
+[2014-05-28T21:01:56.780Z] (lobby) brosb4ho-ohs was warned by Champion Fizz.
+[2014-05-28T21:02:59.757Z] (lobby) brosb4ho-ohs was muted by Champion Fizz for 7 minutes.
+[2014-05-28T21:08:25.698Z] (lobby) (linnone dickriding was forced to choose a new name by sparkychild)
+[2014-05-28T21:21:51.185Z] (lobby) Chromatic Art was warned by sparkychild. (!data play nice)
+[2014-05-28T22:09:16.661Z] (lobby) spark on break was locked from talking by Antgeezy. (you need a time out)
+[2014-05-28T22:09:47.524Z] (lobby) spark on break was unlocked by Antgeezy.
+[2014-05-28T23:25:27.058Z] (lobby) (tgef would be muted by DeathxShinigami but was already offline.)
+[2014-05-29T00:27:37.714Z] (lobby) kingmidas was promoted to Voice by sparktrain.
+[2014-05-29T00:27:48.480Z] (lobby) sparktrain was warned by zeriloa. (/me vomits on spark)
+[2014-05-29T00:32:52.919Z] (lobby) queenlucys vigania was muted by queenlucy for 7 minutes.
+[2014-05-29T00:32:52.921Z] (lobby) queenlucys vigania's alts were also muted: sparkbot, fapmaster fizz
+[2014-05-29T00:33:18.011Z] (lobby) queenlucys vigania was unmuted by Antgeezy.
+[2014-05-29T00:33:49.982Z] (lobby) sparktrain declared CONNECT BLOCKED - IP BANNED: 71.213.0.102 (caledrith)
+[2014-05-29T00:33:50.583Z] (lobby) sparktrain declared CONNECT BLOCKED - IP BANNED: 71.213.0.102 (caledrith)
+[2014-05-29T00:39:14.313Z] (lobby) sparkbot was unmuted by sparktrain.
+[2014-05-29T00:39:24.657Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-05-29T00:39:25.260Z] (lobby) zeriloa was redirected to a private room by sparktrain.
+[2014-05-29T00:39:25.862Z] (lobby) Ant is a fgt was redirected to a private room by sparktrain.
+[2014-05-29T00:47:44.713Z] (lobby) antgeezy - Away was promoted to Driver by zeriloa.
+[2014-05-29T00:58:05.165Z] (lobby) jonater was promoted to Voice by zeriloa.
+[2014-05-29T01:04:39.474Z] (lobby) sparky's imposter was redirected to room LCPL by sparkychild.
+[2014-05-29T01:06:23.929Z] (lobby) sparkychild was redirected to a private room by sparktrain.
+[2014-05-29T01:16:51.598Z] (lobby) sparktrain declared zeriloa's epeen has grown to level 69!
+[2014-05-29T01:20:46.429Z] (lobby) sparktrain was unlocked by sparktrain.
+[2014-05-29T01:20:49.974Z] (lobby) (zeriloa was demoted to Voice by sparktrain.)
+[2014-05-29T01:21:18.670Z] (lobby) zeriloa was promoted to Administrator by sparktrain.
+[2014-05-29T01:21:42.229Z] (lobby) sparkbot was unlocked by sparktrain.
+[2014-05-29T01:21:58.598Z] (lobby) firebreathingyoshi was locked from talking by queenlucy.
+[2014-05-29T01:22:02.987Z] (lobby) firebreathingyoshi was unlocked by zeriloa.
+[2014-05-29T01:28:39.893Z] (lobby) (fizzisbigfgt was forced to choose a new name by sparkychild)
+[2014-05-29T01:30:40.111Z] (lobby) idontwannagetband was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-05-29T01:30:40.112Z] (lobby) idontwannagetband's alts were also muted: sparky's imposter
+[2014-05-29T01:30:53.703Z] (lobby) idontwannagetband was unmuted by sparktrain.
+[2014-05-29T01:32:10.953Z] (lobby) sparktrain declared >Timburr can just switch in
+[2014-05-29T01:42:50.482Z] (lobby) sparkcheese was promoted to Administrator by sparktrain.
+[2014-05-29T01:48:14.237Z] (lobby) zeriloa declared jon

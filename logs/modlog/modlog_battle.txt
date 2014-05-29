@@ -4,3 +4,6 @@
 [2014-05-27T05:28:47.686Z] (battle-lcstabmons-1238) Nineage forced a tie.
 [2014-05-27T23:59:28.514Z] (battle-lcstabmons-1293) Kappaten set modchat to +
 [2014-05-28T01:23:20.534Z] (battle-lc1v1-1350) Champion Fizz set modchat to +
+[2014-05-28T03:32:04.554Z] (battle-lcstabmons-1358) GlassGlaceon was promoted to Room Voice by vileman.
+[2014-05-28T20:53:07.993Z] (battle-rubeta-1370) Expulso made this room private.
+[2014-05-28T20:54:15.438Z] (battle-rubeta-1370) Expulso made this room private.

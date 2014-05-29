@@ -157,6 +157,7 @@ exports.customavatars = {
     'kappaten': 'kappaten.gif',
     'nightmarevampire': 'nightmare.gif',
     'expulso': 'cobalion.gif',
+    'violett': 'violett.gif'
 };
 
 // appealurl - specify a URL containing information on how users can appeal
