@@ -3639,6 +3639,20 @@ exports.BattleItems = {
 		gen: 3,
 		desc: "Holder's Water-type attacks have 1.2x power."
 	},
+	"seelite": {
+		id: "seelite",
+		name: "Seelite",
+		spritenum: 576,
+		megaStone: "Seel-Mega",
+		megaEvolves: "Seel",
+		onTakeItem: function (item, source) {
+			if (item.megaEvolves === source.baseTemplate.baseSpecies) return false;
+			return true;
+		},
+		num: 999,
+		gen: 6,
+		desc: "Mega-evolves Seel."
+	},
 	"sharpbeak": {
 		id: "sharpbeak",
 		name: "Sharp Beak",
