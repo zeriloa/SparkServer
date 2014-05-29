@@ -144,9 +144,9 @@ exports.customavatars = {
     'corporallevi': 'levi.png',
     'chromaticart': 'chrom.png',
     'queenlucy': 'lucy.png',
-    'sparktrain': 'spark.png',
-    'sparkbot': 'sparkbot.png',
-    'antgeezy': 'ant.png',
+    'sparktrain': 'spark2.gif',
+    'sparkbot': 'sparkbot2.gif',
+    'antgeezy': 'ant.gif',
     'burgercarbink': 'burger.png',
     'stonerlinoone': 'stoner.png',
     'zeriloa': 'zeril.png',
@@ -157,7 +157,8 @@ exports.customavatars = {
     'kappaten': 'kappaten.gif',
     'nightmarevampire': 'nightmare.gif',
     'expulso': 'cobalion.gif',
-    'violett': 'violett.gif'
+    'violett': 'violett.gif',
+    'brosb4hoohs': 'bros.gif'
 };
 
 // appealurl - specify a URL containing information on how users can appeal

@@ -926,3 +926,17 @@
 [2014-05-29T16:03:56.225Z] (lobby) Champion Fizz was banned by zeriloa. (70.58.247.110)
 [2014-05-29T17:22:58.797Z] (lobby) Champion Fizz was unbanned by DeathxShinigami.
 [2014-05-29T17:23:04.942Z] (lobby) Champion Fizz was unlocked by DeathxShinigami.
+[2014-05-29T21:33:56.945Z] (lobby) brosb4ho-ohs was warned by zeriloa. (don't post porn)
+[2014-05-29T21:53:44.904Z] (lobby) (zeriloa's sister was forced to choose a new name by zeriloa)
+[2014-05-29T21:58:29.713Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-05-29T22:00:27.653Z] (lobby) Jonater was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-05-29T22:00:35.532Z] (lobby) Jonater was unmuted by sparktrain.
+[2014-05-29T22:13:21.163Z] (lobby) team ninja leader was banned by sparktrain. (porn) (65.96.91.222)
+[2014-05-29T22:27:19.894Z] (lobby) sparktrain declared @Antgeezy: BD scarf explosion
+[2014-05-29T22:27:40.905Z] (lobby) sparktrain declared @Antgeezy: BD scarf explosion
+[2014-05-29T22:27:46.683Z] (lobby) sparktrain declared @Antgeezy: BD scarf explosion
+[2014-05-29T22:27:57.993Z] (lobby) sparktrain declared @Antgeezy: BD scarf explosion
+[2014-05-29T22:33:42.693Z] (lobby) Alika's Wow! was warned by sparktrain.
+[2014-05-29T22:33:43.017Z] (lobby) Alika's Wow! was muted by Antgeezy for 7 minutes.
+[2014-05-29T22:34:02.732Z] (lobby) Alika's Wow! was locked from talking by Antgeezy.
+[2014-05-29T22:34:07.599Z] (lobby) Alika's Wow! was banned by DeathxShinigami. (my turn!) (66.75.127.237)
