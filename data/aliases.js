@@ -43,6 +43,7 @@ exports.BattleAliases = {
 	"megamewtwoy": "Mewtwo-Mega-Y",
 	"megapinsir": "Pinsir-Mega",
 	"megascizor": "Scizor-Mega",
+	"megaseel": "Seel-Mega",
 	"megatyranitar": "Tyranitar-Mega",
 	"megattar": "Tyranitar-Mega",
 	"megavenusaur": "Venusaur-Mega",
