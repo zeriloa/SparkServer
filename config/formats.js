@@ -75,7 +75,7 @@ exports.Formats = [
                    section: "XY LC - Other Metas",
                    
                    maxLevel: 5,
-                   ruleset: ['Pokemon', 'Standardunreleased', 'Team Preview', 'Little Cup'],
+                   ruleset: ['Pokemon', 'Standardunreleased', 'Team Preview', 'Little Cup', 'Sleep Clause Mod', 'Species Clause', 'OHKO Clause', 'Moody Clause', 'Evasion Moves Clause', 'Endless Battle Clause', 'HP Percentage Mod'],
                    banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite']
                    },
                    {
