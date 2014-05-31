@@ -20,3 +20,67 @@ TypeError: Cannot call method 'getBanlistTable' of undefined
     at process.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:322:10)
     at Pipe.channel.onread (child_process.js:349:11)
+
+SyntaxError: Unexpected token ;
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/Users/Lukas/Desktop/SparkServer/app.js:414:24)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+
+ReferenceError: TeamValidator is not defined
+    at User.prepBattle (/Users/Lukas/Desktop/SparkServer/users.js:1166:3)
+    at Object.exports.commands.challenge (/Users/Lukas/Desktop/SparkServer/commands.js:1610:8)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.processChatQueue (/Users/Lukas/Desktop/SparkServer/users.js:1315:13)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)
+
+SyntaxError: Unexpected token ;
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/Users/Lukas/Desktop/SparkServer/app.js:414:24)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+
+ReferenceError: TeamValidator is not defined
+    at User.prepBattle (/Users/Lukas/Desktop/SparkServer/users.js:1166:3)
+    at Object.exports.commands.challenge (/Users/Lukas/Desktop/SparkServer/commands.js:1610:8)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.processChatQueue (/Users/Lukas/Desktop/SparkServer/users.js:1315:13)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)
+
+SyntaxError: Unexpected token ;
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/Users/Lukas/Desktop/SparkServer/app.js:414:24)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+
+SyntaxError: Unexpected token ;
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/Users/Lukas/Desktop/SparkServer/app.js:414:24)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
