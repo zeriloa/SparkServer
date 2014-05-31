@@ -7,3 +7,4 @@
 [2014-05-28T03:32:04.554Z] (battle-lcstabmons-1358) GlassGlaceon was promoted to Room Voice by vileman.
 [2014-05-28T20:53:07.993Z] (battle-rubeta-1370) Expulso made this room private.
 [2014-05-28T20:54:15.438Z] (battle-rubeta-1370) Expulso made this room private.
+[2014-05-31T22:42:01.542Z] (battle-lcstabmons-1684) sparktrain forced a tie.
