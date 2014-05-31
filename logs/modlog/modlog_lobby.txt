@@ -940,3 +940,147 @@
 [2014-05-29T22:33:43.017Z] (lobby) Alika's Wow! was muted by Antgeezy for 7 minutes.
 [2014-05-29T22:34:02.732Z] (lobby) Alika's Wow! was locked from talking by Antgeezy.
 [2014-05-29T22:34:07.599Z] (lobby) Alika's Wow! was banned by DeathxShinigami. (my turn!) (66.75.127.237)
+[2014-05-29T23:23:34.550Z] (lobby) ucan'ttouchme was warned by sparkbot. (Automated response: caps)
+[2014-05-29T23:56:35.825Z] (lobby) zeriloa declared queenlucy: i'm kinda dating zeril
+[2014-05-29T23:59:37.052Z] (lobby) BurgerCarbink - Away was warned by zeriloa.
+[2014-05-30T00:15:06.370Z] (lobby) Expulso was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-05-30T00:15:21.811Z] (lobby) Expulso was unmuted by Nudisto.
+[2014-05-30T00:50:28.095Z] (lobby) BridgetteB was redirected to a private room by zeriloa.
+[2014-05-30T00:52:56.376Z] (lobby) BridgetteB was warned by Champion Fizz. (no physical violence)
+[2014-05-30T00:53:48.904Z] (lobby) mrnoodleoctopus was warned by Champion Fizz. (you betrayed me)
+[2014-05-30T00:53:56.275Z] (lobby) Champion Fizz was warned by zeriloa. (stop warning)
+[2014-05-30T01:05:26.143Z] (lobby) seel sucks was muted by Antgeezy for 7 minutes.
+[2014-05-30T01:17:06.988Z] (lobby) Antgeezys chode was warned by sparkbot. (Automated response: caps)
+[2014-05-30T01:17:25.770Z] (lobby) Antgeezys chode was locked from talking by Antgeezy.
+[2014-05-30T01:17:25.771Z] (lobby) Antgeezys chode's alts were also locked: seel sucks
+[2014-05-30T01:18:00.980Z] (lobby) Antgeezys chode was unlocked by Antgeezy.
+[2014-05-30T01:20:21.562Z] (lobby) This chat sucks was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-05-30T01:21:05.949Z] (lobby) This chat sucks was locked from talking by Antgeezy.
+[2014-05-30T01:22:02.419Z] (lobby) mrnoodleoctopus was warned by sparkbot. (Automated response: caps)
+[2014-05-30T01:22:35.955Z] (lobby) This chat sucks was banned by Antgeezy. (24.63.177.96)
+[2014-05-30T01:23:48.809Z] (lobby) mrnoodleoctopus was muted by sparkbot for 7 minutes. (Automated response: caps)
+[2014-05-30T01:24:57.614Z] (lobby) zeriloa kicked Antgeezy from lobby
+[2014-05-30T01:25:48.919Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already muted.)
+[2014-05-30T01:25:59.057Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:00.286Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:00.959Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:01.017Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:01.711Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:02.360Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:03.081Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:13.632Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:14.609Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:15.210Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:15.810Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:16.411Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:17.013Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:17.615Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:18.217Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:18.819Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:19.421Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:26:19.628Z] (lobby) (mrnoodleoctopus would be muted by queenlucy but was already offline.)
+[2014-05-30T01:28:59.692Z] (lobby) Chicken is a sport was warned by queenlucy. (chicken is not a sport)
+[2014-05-30T01:29:29.106Z] (lobby) YEAH IT IS was warned by queenlucy. (is not)
+[2014-05-30T01:29:52.532Z] (lobby) UMM NOOBS IT IS was warned by queenlucy. (umm noob its not)
+[2014-05-30T01:35:41.563Z] (lobby) Sassy LAdy was warned by sparkychild - Away. (stretching)
+[2014-05-30T01:36:20.432Z] (lobby) Sassy LAdy was muted by sparkychild for 7 minutes. (mean)
+[2014-05-30T01:46:42.820Z] (lobby) Sassy LAdy was locked from talking by sparkychild.
+[2014-05-30T01:47:37.647Z] (lobby) Sassy LAdy was banned by zeriloa. (99.105.85.235)
+[2014-05-30T01:48:29.213Z] (lobby) zeriloa kicked Antgeezy from lobby
+[2014-05-30T01:51:20.711Z] (lobby) Chromatic Art was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-05-30T01:51:26.262Z] (lobby) Chromatic Art was unmuted by sparkychild.
+[2014-05-30T01:55:19.330Z] (lobby) Corporal Levi was warned by sparkychild. (no you)
+[2014-05-30T01:56:37.144Z] (lobby) sparkbot was promoted to Leader by zeriloa.
+[2014-05-30T01:56:52.720Z] (lobby) Chromatic Art was promoted to Administrator by zeriloa.
+[2014-05-30T01:57:57.153Z] (lobby) Champion Fizz was muted by Chromatic Art for 7 minutes.
+[2014-05-30T01:58:10.662Z] (lobby) (Chromatic Art was demoted to Voice by zeriloa.)
+[2014-05-30T01:59:01.051Z] (lobby) Champion Fizz was unmuted by Antgeezy.
+[2014-05-30T01:59:54.575Z] (lobby) Corporal Levi was warned by sparkbot. (Automated response: caps)
+[2014-05-30T02:00:16.088Z] (lobby) qu was muted by Antgeezy for 7 minutes.
+[2014-05-30T02:00:16.088Z] (lobby) qu's alts were also muted: queenlucy - Away
+[2014-05-30T02:00:18.154Z] (lobby) Corporal Levi was muted by sparkbot for 7 minutes. (Automated response: caps)
+[2014-05-30T02:00:20.389Z] (lobby) qu was unmuted by zeriloa.
+[2014-05-30T02:00:27.945Z] (lobby) Corporal Levi was unmuted by zeriloa.
+[2014-05-30T02:01:10.681Z] (lobby) Corporal Levi was muted by sparkbot for 60 minutes. (Automated response: caps)
+[2014-05-30T02:02:02.663Z] (lobby) UNMUTE ME FGTS was unmuted by Champion Fizz.
+[2014-05-30T02:04:51.996Z] (lobby) Chromatic Art was promoted to Driver by zeriloa.
+[2014-05-30T02:06:11.233Z] (lobby) Corporal Levi was muted by queenlucy for 7 minutes.
+[2014-05-30T02:06:20.728Z] (lobby) queenlucy was promoted to Moderator by zeriloa.
+[2014-05-30T02:06:30.030Z] (lobby) (queenlucy was demoted to Driver by zeriloa.)
+[2014-05-30T02:07:50.585Z] (lobby) ILL REKT U was unmuted by queenlucy.
+[2014-05-30T02:08:40.515Z] (lobby) Corporal Levi was promoted to Administrator by zeriloa.
+[2014-05-30T02:08:48.794Z] (lobby) sparkychild was warned by Corporal Levi. (midget)
+[2014-05-30T02:09:11.850Z] (lobby) (Corporal Levi was demoted to Voice by zeriloa.)
+[2014-05-30T02:10:16.311Z] (lobby) Corporal Levi was muted by queenlucy - Away for 7 minutes. (no longer admin)
+[2014-05-30T02:10:33.237Z] (lobby) Corporal Levi was unmuted by sparkychild.
+[2014-05-30T02:10:39.546Z] (lobby) queenlucy was locked from talking by Antgeezy. (abuse)
+[2014-05-30T02:10:39.547Z] (lobby) queenlucy's alts were also locked: zeriloa
+[2014-05-30T02:10:47.390Z] (lobby) zeriloa, queenlucy were unlocked by zeriloa.
+[2014-05-30T02:13:49.343Z] (lobby) Chromatic Art was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-05-30T02:15:01.598Z] (lobby) Muted Swag was unmuted by zeriloa.
+[2014-05-30T02:15:50.846Z] (lobby) Corporal Levi was muted by sparkychild for 7 minutes.
+[2014-05-30T02:15:56.130Z] (lobby) Corporal Levi was warned by zeriloa. (stop trying to act like chrom ur levi)
+[2014-05-30T02:16:04.117Z] (lobby) Corporal Levi was unmuted by zeriloa.
+[2014-05-30T02:16:28.268Z] (lobby) Corporal Levi was muted by sparkbot for 60 minutes. (Automated response: caps)
+[2014-05-30T02:17:19.712Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-05-30T02:17:19.713Z] (lobby) zeriloa's alts were also locked: sparkbot - away
+[2014-05-30T02:17:30.202Z] (lobby) zeriloa was unlocked by zeriloa.
+[2014-05-30T02:17:43.853Z] (lobby) sparkbot away, queenlucy were unlocked by zeriloa.
+[2014-05-30T02:18:02.894Z] (lobby) (expulso u suck :( was forced to choose a new name by sparkychild)
+[2014-05-30T02:18:28.810Z] (lobby) (expulso u suck :( was forced to choose a new name by queenlucy)
+[2014-05-30T02:18:50.965Z] (lobby) (expulso r suk was forced to choose a new name by sparkychild)
+[2014-05-30T02:18:54.001Z] (lobby) (Guest 61 was forced to choose a new name by queenlucy)
+[2014-05-30T02:19:10.876Z] (lobby) (IM 8'11 DONT EVEN was forced to choose a new name by sparkychild)
+[2014-05-30T02:19:21.034Z] (lobby) (ILL REKT YALL was forced to choose a new name by queenlucy)
+[2014-05-30T02:19:27.559Z] (lobby) (GODDAMN FGTS was forced to choose a new name by queenlucy)
+[2014-05-30T02:19:42.376Z] (lobby) (blackmarketdealer was forced to choose a new name by queenlucy)
+[2014-05-30T02:21:04.573Z] (lobby) (Chromatic Art was demoted to Voice by zeriloa.)
+[2014-05-30T02:24:44.937Z] (lobby) Chromatic Art was muted by queenlucy for 7 minutes. (spam)
+[2014-05-30T02:24:49.688Z] (lobby) Chromatic Art was unmuted by queenlucy.
+[2014-05-30T02:34:40.529Z] (lobby) (sparkbot was demoted to Moderator by zeriloa.)
+[2014-05-30T02:40:39.001Z] (lobby) zeriloa declared 8========D
+[2014-05-30T02:41:42.287Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-05-30T02:41:42.287Z] (lobby) zeriloa's alts were also locked: queenlucy
+[2014-05-30T02:41:47.740Z] (lobby) queenlucy, zeriloa were unlocked by zeriloa.
+[2014-05-30T03:00:54.648Z] (lobby) Amp Pharaohs was warned by Champion Fizz. (being a scrub)
+[2014-05-30T03:01:15.522Z] (lobby) Champion Fizz was warned by zeriloa. (>scrub calling someone a scrub)
+[2014-05-30T03:22:06.374Z] (lobby) queenlucy - away was promoted to Driver by sparktrainscat.
+[2014-05-30T03:23:53.721Z] (lobby) zeriloa-away-away was promoted to Driver by zeriloa.
+[2014-05-30T03:25:24.878Z] (lobby) (queenlucy - away was demoted to Voice by zeriloa.)
+[2014-05-30T03:25:30.346Z] (lobby) (queenlucy - away was demoted to regular user by zeriloa.)
+[2014-05-30T03:25:54.788Z] (lobby) (zeriloa away away was demoted to Voice by zeriloa.)
+[2014-05-30T03:26:00.382Z] (lobby) (zeriloa away away was demoted to regular user by zeriloa.)
+[2014-05-30T03:26:12.188Z] (lobby) (sparktrainscat was demoted to Voice by zeriloa.)
+[2014-05-30T03:26:16.793Z] (lobby) (sparktrainscat was demoted to regular user by zeriloa.)
+[2014-05-30T03:26:30.617Z] (lobby) (queenlucy - away - Away was demoted to Voice by zeriloa.)
+[2014-05-30T03:26:35.727Z] (lobby) (queenlucy - away - Away was demoted to regular user by zeriloa.)
+[2014-05-30T03:26:49.438Z] (lobby) Expulso was muted by zeriloa for 7 minutes. (/access not denied)
+[2014-05-30T03:26:54.697Z] (lobby) Expulso was unmuted by zeriloa.
+[2014-05-30T04:35:48.610Z] (lobby) zeriloa declared https://lh4.googleusercontent.com/-8TKna-NHpeo/TmpxTS-YueI/AAAAAAAAA4g/P0mWbzU9nsk/Hyeri%252520%2525286%252529.gif
+[2014-05-30T06:52:34.361Z] (lobby) sparktrain declared seel too stronk 4 kappa
+[2014-05-30T06:52:46.762Z] (lobby) Kappaten declared got haxed this whole tourney
+[2014-05-30T06:52:50.892Z] (lobby) Kappaten declared fgt counterteamers
+[2014-05-30T06:53:02.483Z] (lobby) sparktrain declared ^ kappa angry
+[2014-05-30T06:53:16.087Z] (lobby) Kappaten declared bitch I'm using eevee y would i be angry
+[2014-05-30T06:53:32.112Z] (lobby) sparktrain declared bc ur salty mofo kappa lol
+[2014-05-30T07:21:59.800Z] (lobby) Kappaten declared [02:21:35] tred017: is antgeezy a troll?
+[2014-05-30T07:44:31.779Z] (lobby) Exca was promoted to Voice by sparktrain.
+[2014-05-30T16:58:35.562Z] (lobby) Heysup was promoted to Voice by sparktrain.
+[2014-05-30T19:32:50.526Z] (lobby) Kappaten declared Snotjoch: keep in mind that zekrom is weak because sharpedo walls it though
+[2014-05-30T20:00:21.135Z] (lobby) Chromatic Art was warned by zeriloa. (hamsta ass nigga)
+[2014-05-30T20:03:08.815Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-05-30T20:04:18.343Z] (lobby) zeriloa was unlocked by zeriloa.
+[2014-05-30T20:46:41.143Z] (lobby) (DxShinigoomy was forced to choose a new name by DeathxShinigami)
+[2014-05-30T20:47:07.433Z] (lobby) Corporal Levi was warned by DeathxShinigami. (don't talk about the game)
+[2014-05-30T20:53:53.248Z] (lobby) zeriloa kicked Corporal Levi from lobby
+[2014-05-30T21:12:55.736Z] (lobby) Caledrith was banned by sparktrain. (71.219.17.77)
+[2014-05-30T21:30:15.617Z] (lobby) (zeriloa is fgt was forced to choose a new name by zeriloa)
+[2014-05-30T21:30:50.944Z] (lobby) Expulso was warned by nudisto. (stop being such an expulso)
+[2014-05-30T21:35:04.482Z] (lobby) qd joltik was warned by zeriloa. (qd larv >)
+[2014-05-30T21:47:37.648Z] (lobby) Kappaten was redirected to a private room by zeriloa.
+[2014-05-31T02:15:15.137Z] (lobby) Chromatic Art was promoted to Administrator by zeriloa.
+[2014-05-31T02:17:55.803Z] (lobby) WaterlessMelon was muted by Chromatic Art for 7 minutes. (fgt)
+[2014-05-31T02:17:56.405Z] (lobby) Antgeezy was muted by Chromatic Art for 7 minutes. (fgt)
+[2014-05-31T02:18:05.634Z] (lobby) (Chromatic Art was demoted to Voice by zeriloa.)
+[2014-05-31T02:18:21.504Z] (lobby) Antgeezy was unmuted by zeriloa.
+[2014-05-31T02:18:35.652Z] (lobby) WaterlessMelon was unmuted by zeriloa.
