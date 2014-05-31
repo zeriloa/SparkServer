@@ -14,20 +14,6 @@ require('sugar');
 
 global.Config = require('./config/config.js');
 
-if (Config.crashguard) {
-	// graceful crash - allow current battles to finish before restarting
-	process.on('uncaughtException', function (err) {
-		require('./crashlogger.js')(err, 'A simulator process');
-		/* var stack = ("" + err.stack).split("\n").slice(0, 2).join("<br />");
-		if (Rooms.lobby) {
-			Rooms.lobby.addRaw('<div><b>THE SERVER HAS CRASHED:</b> ' + stack + '<br />Please restart the server.</div>');
-			Rooms.lobby.addRaw('<div>You will not be able to talk in the lobby or start new battles until the server restarts.</div>');
-		}
-		Config.modchat = 'crash';
-		Rooms.global.lockdown = true; */
-	});
-}
-
 /**
  * Converts anything to an ID. An ID must have only lowercase alphanumeric
  * characters.
@@ -54,17 +40,6 @@ global.toName = function (name) {
 };
 
 /**
- * Escapes a string for HTML
- * If strEscape is true, escapes it for JavaScript, too
- */
-global.sanitize = function (str, strEscape) {
-	str = ('' + (str || ''));
-	str = str.escapeHTML();
-	if (strEscape) str = str.replace(/'/g, '\\\'');
-	return str;
-};
-
-/**
  * Safely ensures the passed variable is a string
  * Simply doing '' + str can crash if str.toString crashes or isn't a function
  * If we're expecting a string and being given anything that isn't a string
@@ -81,7 +56,7 @@ var Battles = {};
 
 // Receive and process a message sent using Simulator.prototype.send in
 // another process.
-process.on('message', function (message) {
+battleEngineFakeProcess.client.on('message', function (message) {
 	//console.log('CHILD MESSAGE RECV: "' + message + '"');
 	var nlIndex = message.indexOf("\n");
 	var more = '';
@@ -101,10 +76,10 @@ process.on('message', function (message) {
 				var fakeErr = {stack: stack};
 
 				if (!require('./crashlogger.js')(fakeErr, 'A battle')) {
-					var ministack = ("" + err.stack).split("\n").slice(0, 2).join("<br />");
-					process.send(data[0] + '\nupdate\n|html|<div class="broadcast-red"><b>A BATTLE PROCESS HAS CRASHED:</b> ' + ministack + '</div>');
+					var ministack = ("" + err.stack).escapeHTML().split("\n").slice(0, 2).join("<br />");
+					battleEngineFakeProcess.client.send(data[0] + '\nupdate\n|html|<div class="broadcast-red"><b>A BATTLE PROCESS HAS CRASHED:</b> ' + ministack + '</div>');
 				} else {
-					process.send(data[0] + '\nupdate\n|html|<div class="broadcast-red"><b>The battle crashed!</b><br />Don\'t worry, we\'re working on fixing it.</div>');
+					battleEngineFakeProcess.client.send(data[0] + '\nupdate\n|html|<div class="broadcast-red"><b>The battle crashed!</b><br />Don\'t worry, we\'re working on fixing it.</div>');
 				}
 			}
 		}
@@ -700,7 +675,7 @@ var BattlePokemon = (function () {
 				var nature = this.battle.getNature(this.set.nature);
 				if (statName === nature.plus) stat *= 1.1;
 				if (statName === nature.minus) stat *= 0.9;
-				this.stats[statName] = Math.floor(stat);
+				this.baseStats[statName] = this.stats[statName] = Math.floor(stat);
 			}
 			this.speed = this.stats.spe;
 		}
@@ -2403,10 +2378,6 @@ var Battle = (function () {
 			pokemon.moveset[m].used = false;
 		}
 		this.add('switch', pokemon, pokemon.getDetails);
-		if (pokemon.template.isMega) this.add('-formechange', pokemon, pokemon.template.species);
-		if (pokemon.illusion && pokemon.illusion.template.isMega) {
-			this.add('-formechange', pokemon.illusion, pokemon.illusion.template.species);
-		}
 		pokemon.update();
 		this.runEvent('SwitchIn', pokemon);
 		this.addQueue({pokemon: pokemon, choice: 'runSwitch'});
@@ -2464,10 +2435,6 @@ var Battle = (function () {
 			pokemon.moveset[m].used = false;
 		}
 		this.add('drag', pokemon, pokemon.getDetails);
-		if (pokemon.template.isMega) this.add('-formechange', pokemon, pokemon.template.species);
-		if (pokemon.illusion && pokemon.illusion.template.isMega) {
-			this.add('-formechange', pokemon.illusion, pokemon.illusion.template.species);
-		}
 		pokemon.update();
 		this.runEvent('SwitchIn', pokemon);
 		this.addQueue({pokemon: pokemon, choice: 'runSwitch'});
@@ -2580,7 +2547,7 @@ var Battle = (function () {
 					boost[i] = -boost[i];
 				}
 				switch (effect.id) {
-				case 'intimidate':
+				case 'intimidate': case 'gooey':
 					this.add(msg, target, i, boost[i]);
 					break;
 				default:
@@ -2644,20 +2611,16 @@ var Battle = (function () {
 			break;
 		}
 
-		if (effect.recoil && source) {
-			this.damage(this.clampIntRange(Math.round(damage * effect.recoil[0] / effect.recoil[1]), 1), source, target, 'recoil');
-		}
 		if (effect.drain && source) {
 			this.heal(Math.ceil(damage * effect.drain[0] / effect.drain[1]), source, target, 'drain');
 		}
 
-		if (target.fainted) this.faint(target);
-		else {
+		if (target.fainted) {
+			this.faint(target);
+		} else {
 			damage = this.runEvent('AfterDamage', target, source, effect, damage);
-			if (effect && !effect.negateSecondary) {
-				this.runEvent('Secondary', target, source, effect);
-			}
 		}
+
 		return damage;
 	};
 	Battle.prototype.directDamage = function (damage, target, source, effect) {
@@ -3782,7 +3745,7 @@ var Battle = (function () {
 	// Simulator.prototype.receive in simulator.js (in another process).
 	Battle.prototype.send = function (type, data) {
 		if (Array.isArray(data)) data = data.join("\n");
-		process.send(this.id + "\n" + type + "\n" + data);
+		battleEngineFakeProcess.client.send(this.id + "\n" + type + "\n" + data);
 	};
 	// This function is called by this process's 'message' event.
 	Battle.prototype.receive = function (data, more) {
