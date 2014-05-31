@@ -789,7 +789,7 @@ var Validator = (function () {
 		}
 
 		return false;
-	};
+	}
 
 	return Validator;
 })();
