@@ -1086,3 +1086,21 @@
 [2014-05-31T02:18:35.652Z] (lobby) WaterlessMelon was unmuted by zeriloa.
 [2014-05-31T02:42:19.883Z] (lobby) Nudisto was banned by sparktrain. (stfu) (108.13.70.148)
 [2014-05-31T03:07:10.686Z] (lobby) Nineage, guest10 were unlocked by Nineage.
+[2014-05-31T03:22:57.432Z] (lobby) Nne was promoted to Administrator by sparktrain.
+[2014-05-31T03:23:00.402Z] (lobby) (sparktrain was demoted to Voice by sparktrain.)
+[2014-05-31T03:23:13.702Z] (lobby) (Nne was demoted to regular user by Nne.)
+[2014-05-31T03:23:44.004Z] (lobby) sparktrain was promoted to Administrator by sparktrain.
+[2014-05-31T03:23:49.630Z] (lobby) (sparktrain was demoted to Voice by zeriloa.)
+[2014-05-31T03:23:52.260Z] (lobby) (sparktrain was demoted to regular user by zeriloa.)
+[2014-05-31T03:23:56.254Z] (lobby) sparktrain was promoted to Administrator by zeriloa.
+[2014-05-31T03:23:57.811Z] (lobby) zeriloa was banned by sparktrain. (207.157.229.2)
+[2014-05-31T03:24:01.357Z] (lobby) zeriloa was unbanned by sparktrain.
+[2014-05-31T03:24:10.385Z] (lobby) zeriloa was unlocked by zeriloa.
+[2014-05-31T03:28:07.545Z] (lobby) zeriloa kicked Nudisto from lobby
+[2014-05-31T03:33:33.639Z] (lobby) sparktrain kicked zeriloa from lobby
+[2014-05-31T03:33:36.540Z] (lobby) sparktrain kicked Nudisto from lobby
+[2014-05-31T03:40:24.292Z] (lobby) zeriloa kicked zeriloa from lobby
+[2014-05-31T03:41:07.252Z] (lobby) zeriloa kicked Antgeezy from lobby
+[2014-05-31T03:42:14.196Z] (lobby) zeriloa kicked Antgeezy from lobby
+[2014-05-31T03:42:34.256Z] (lobby) sparktrain globally declared test
+[2014-05-31T03:42:52.904Z] (lobby) zeriloa globally declared poopdick

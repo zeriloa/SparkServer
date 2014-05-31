@@ -108,3 +108,73 @@ SyntaxError: Unexpected token return
     at Module._compile (module.js:456:26)
     at Object.Module._extensions..js (module.js:474:10)
     at Module.load (module.js:356:32)
+
+TypeError: Object #<Tools> has no method 'escapeHTML'
+    at Object.exports.commands.declare (/Users/Lukas/Desktop/SparkServer/commands.js:850:59)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/SparkServer/users.js:1299:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/SparkServer/users.js:211:12)
+    at EventEmitter.<anonymous> (/Users/Lukas/Desktop/SparkServer/sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:336:15)
+
+TypeError: Object #<Tools> has no method 'escapeHTML'
+    at Object.exports.commands.declare (/Users/Lukas/Desktop/SparkServer/commands.js:850:59)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/SparkServer/users.js:1299:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/SparkServer/users.js:211:12)
+    at EventEmitter.<anonymous> (/Users/Lukas/Desktop/SparkServer/sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:336:15)
+
+TypeError: Object #<Tools> has no method 'escapeHTML'
+    at Object.exports.commands.declare (/Users/Lukas/Desktop/SparkServer/commands.js:850:59)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/SparkServer/users.js:1299:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/SparkServer/users.js:211:12)
+    at EventEmitter.<anonymous> (/Users/Lukas/Desktop/SparkServer/sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:336:15)
+
+TypeError: Object #<Tools> has no method 'escapeHTML'
+    at Object.exports.commands.declare (/Users/Lukas/Desktop/SparkServer/commands.js:850:59)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/SparkServer/users.js:1299:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/SparkServer/users.js:211:12)
+    at EventEmitter.<anonymous> (/Users/Lukas/Desktop/SparkServer/sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:336:15)
+
+TypeError: Object #<Tools> has no method 'escapeHTML'
+    at Object.exports.commands.declare (/Users/Lukas/Desktop/SparkServer/commands.js:850:59)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/SparkServer/users.js:1299:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/SparkServer/users.js:211:12)
+    at EventEmitter.<anonymous> (/Users/Lukas/Desktop/SparkServer/sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:336:15)
+
+TypeError: Object #<Tools> has no method 'escapeHTML'
+    at Object.exports.commands.declare (/Users/Lukas/Desktop/SparkServer/commands.js:850:59)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/SparkServer/users.js:1299:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/SparkServer/users.js:211:12)
+    at EventEmitter.<anonymous> (/Users/Lukas/Desktop/SparkServer/sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:336:15)
+
+TypeError: Object #<Tools> has no method 'escapeHTML'
+    at Object.exports.commands.declare (/Users/Lukas/Desktop/SparkServer/commands.js:850:59)
+    at Object.exports.parse (/Users/Lukas/Desktop/SparkServer/command-parser.js:215:31)
+    at ChatRoom.chat (/Users/Lukas/Desktop/SparkServer/rooms.js:1495:27)
+    at User.chat (/Users/Lukas/Desktop/SparkServer/users.js:1299:9)
+    at Object.socketReceive (/Users/Lukas/Desktop/SparkServer/users.js:211:12)
+    at EventEmitter.<anonymous> (/Users/Lukas/Desktop/SparkServer/sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:336:15)

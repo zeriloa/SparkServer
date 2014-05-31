@@ -847,7 +847,7 @@ var commands = exports.commands = {
 
 		if (!this.canTalk()) return;
 
-		this.add('|raw|<div class="broadcast-blue"><b>' + Tools.escapeHTML(target) + '</b></div>');
+		this.add('|raw|<div class="broadcast-blue"><b>' + sanitize(target) + '</b></div>');
 		this.logModCommand(user.name + " declared " + target);
 	},
 
