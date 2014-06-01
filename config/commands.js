@@ -1439,5 +1439,16 @@ var commands = exports.commands = {
 			this.sendReply("The command '" + target + "' was not found. Try /help for general help");
 		}
 	},
+    
+    
+    sparkintro: 'spark',
+	spark: function (target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox(
+			"Welcome to SparkServer!<br />" +
+			"<a href=\"http://sparkserver.weebly.com/\">Check out our website</a>, or jump right into the chat!"
+			
+		);
+	},
 
 };

@@ -166,7 +166,7 @@ exports.customavatars = {
 // appealurl - specify a URL containing information on how users can appeal
 // disciplinary actions on your section. You can also leave this blank, in
 // which case users won't be given any information on how to appeal.
-exports.appealurl = '';
+exports.appealurl = 'http://sparkserver.weebly.com/discipline-appeals.html';
 
 // permissions and groups:
 //   Each entry in `groupsranking' specifies the ranking of the groups.

@@ -4,3 +4,12 @@
 [2014-05-28T03:17:38.849Z] (fgt) Kappaten - Away was redirected to room Lobby by sparktrain.
 [2014-05-28T04:15:06.710Z] (fgt) zeriloa was redirected to room Lobby by zeriloa.
 [2014-05-29T01:26:51.390Z] (fgt) idontwannagetband was redirected to a private room by sparktrain.
+[2014-06-01T01:17:32.413Z] (fgt) sparkbot was redirected to room Lobby by sparktrain.
+[2014-06-01T01:24:26.566Z] (fgt) sparkychild was appointed Room Owner by sparktrain.
+[2014-06-01T01:25:24.349Z] (fgt) (hedanceswithswords was demoted to Room Moderator by sparktrain.)
+[2014-06-01T01:25:25.491Z] (fgt) (hedanceswithswords was demoted to Room Driver by sparktrain.)
+[2014-06-01T01:25:26.587Z] (fgt) (hedanceswithswords was demoted to Room Voice by sparktrain.)
+[2014-06-01T01:25:27.188Z] (fgt) (hedanceswithswords was demoted to Room regular user by sparktrain.)
+[2014-06-01T01:25:55.524Z] (fgt) Chromatic Art was appointed Room Owner by zeriloa.
+[2014-06-01T05:31:31.384Z] (fgt) sparktrain was banned from room fgt by Chromatic Art. (fgt)
+[2014-06-01T05:31:31.384Z] (fgt) sparktrain's alts were also banned from room fgt: chrom is a fgt, sparkbot, testingfgt1
