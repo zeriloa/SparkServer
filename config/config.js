@@ -138,14 +138,14 @@ exports.herokuhack = false;
 // Your server *must* be registered in order for your custom avatars to be
 // displayed in the client.
 exports.customavatars = {
-	'nudisto': 'nudisto.png',
+	'sparktrain': 'seelisgud.png',
+    'sparkbot': 'sparkbot.png',
+    'nudisto': 'nudisto.png',
     'thefenderstory': 'fender.png',
     'championfizz': 'fizz.png',
     'corporallevi': 'levi.png',
     'chromaticart': 'chrom.png',
     'queenlucy': 'lucy.png',
-    'sparktrain': 'spark.png',
-    'sparkbot': 'sparkbot.png',
     'antgeezy': 'ant.gif',
     'burgercarbink': 'burger.png',
     'stonerlinoone': 'stoner.png',
@@ -166,7 +166,7 @@ exports.customavatars = {
 // appealurl - specify a URL containing information on how users can appeal
 // disciplinary actions on your section. You can also leave this blank, in
 // which case users won't be given any information on how to appeal.
-exports.appealurl = 'http://sparkserver.weebly.com/discipline-appeals.html';
+exports.appealurl = 'http://goo.gl/iNO9Kq';
 
 // permissions and groups:
 //   Each entry in `groupsranking' specifies the ranking of the groups.

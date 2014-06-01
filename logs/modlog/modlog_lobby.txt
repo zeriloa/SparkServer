@@ -1239,3 +1239,18 @@
 [2014-06-01T06:01:50.656Z] (lobby) sparktrain kicked sparktrainsgf from lobby
 [2014-06-01T06:05:30.749Z] (lobby) sparktrain declared who will give me stabmons team
 [2014-06-01T06:05:36.332Z] (lobby) sparktrain declared i'm lazy
+[2014-06-01T06:11:31.590Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-06-01T06:12:37.700Z] (lobby) zeriloa was unlocked by zeriloa.
+[2014-06-01T06:12:45.006Z] (lobby) zeriloa was locked from talking by zeriloa.
+[2014-06-01T06:12:58.803Z] (lobby) zeriloa was unlocked by zeriloa.
+[2014-06-01T06:13:24.509Z] (lobby) sparktrain was locked from talking by sparktrain.
+[2014-06-01T06:13:24.510Z] (lobby) sparktrain's alts were also locked: chrom is a fgt, sparkbot, testingfgt1
+[2014-06-01T06:13:57.262Z] (lobby) sparktrain was unlocked by zeriloa.
+[2014-06-01T06:39:59.375Z] (lobby) sparkbot was unlocked by sparktrain.
+[2014-06-01T06:55:37.701Z] (lobby) poonslayer69:D was promoted to Administrator by zeriloa.
+[2014-06-01T06:56:12.828Z] (lobby) poonslayer69:D was locked from talking by poonslayer69:D. (inappropriate)
+[2014-06-01T06:56:12.829Z] (lobby) poonslayer69:D's alts were also locked: zeriloa
+[2014-06-01T06:56:20.828Z] (lobby) zeriloa, poonslayer69:D were unlocked by sparktrain.
+[2014-06-01T06:56:40.120Z] (lobby) poonslayer69:D was promoted to Voice by zeriloa.
+[2014-06-01T06:56:48.945Z] (lobby) (poonslayer69:D was demoted to regular user by zeriloa.)
+[2014-06-01T06:58:20.931Z] (lobby) b'nmj was redirected to a private room by zeriloa.
