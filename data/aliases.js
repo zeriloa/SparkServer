@@ -204,7 +204,8 @@ exports.BattleAliases = {
     "tirt": "Tirtouga",
     "doge": "Houndour",
     "penis": "Onix",
-    "sparktrain": "Seel",
+    "sparktrain": "Seel"
+    "Chingy L": "Chingling",
     
 	// moves
 	"bpass": "Baton Pass",
